@@ -1,0 +1,2487 @@
+#EXTM3U
+#EXTINF:-1,Us- HBO Comedy HD
+http://linux-app.tv:6204/mohammad/mohammad/10411
+#EXTINF:-1,Us- HBO Signature
+http://linux-app.tv:6204/mohammad/mohammad/10410
+#EXTINF:-1,Us- HBO US HD
+http://linux-app.tv:6204/mohammad/mohammad/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://linux-app.tv:6204/mohammad/mohammad/10408
+#EXTINF:-1,Us- HGTV HD
+http://linux-app.tv:6204/mohammad/mohammad/10407
+#EXTINF:-1,Us- History
+http://linux-app.tv:6204/mohammad/mohammad/10406
+#EXTINF:-1,Us- History HD US
+http://linux-app.tv:6204/mohammad/mohammad/10405
+#EXTINF:-1,Us- Life Time HD
+http://linux-app.tv:6204/mohammad/mohammad/10404
+#EXTINF:-1,Us- MTV HD US
+http://linux-app.tv:6204/mohammad/mohammad/10403
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://linux-app.tv:6204/mohammad/mohammad/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://linux-app.tv:6204/mohammad/mohammad/10401
+#EXTINF:-1,Us- NBA HD
+http://linux-app.tv:6204/mohammad/mohammad/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://linux-app.tv:6204/mohammad/mohammad/10399
+#EXTINF:-1,Us- NBCSN HD
+http://linux-app.tv:6204/mohammad/mohammad/10398
+#EXTINF:-1,Us- NEWS 12
+http://linux-app.tv:6204/mohammad/mohammad/10643
+#EXTINF:-1,Us- Nick Junior US
+http://linux-app.tv:6204/mohammad/mohammad/10397
+#EXTINF:-1,Us- Nick Toons US
+http://linux-app.tv:6204/mohammad/mohammad/10396
+#EXTINF:-1,Us- OWN HD
+http://linux-app.tv:6204/mohammad/mohammad/10395
+#EXTINF:-1,Us- A&E  US
+http://linux-app.tv:6204/mohammad/mohammad/10441
+#EXTINF:-1,Us- ABC US
+http://linux-app.tv:6204/mohammad/mohammad/10440
+#EXTINF:-1,Us- Animal Planet HD
+http://linux-app.tv:6204/mohammad/mohammad/10439
+#EXTINF:-1,Us- Bein Sports
+http://linux-app.tv:6204/mohammad/mohammad/10646
+#EXTINF:-1,Us- BET HD
+http://linux-app.tv:6204/mohammad/mohammad/10645
+#EXTINF:-1,Us- Bloomberg US
+http://linux-app.tv:6204/mohammad/mohammad/10436
+#EXTINF:-1,Us- Bravo HD
+http://linux-app.tv:6204/mohammad/mohammad/10435
+#EXTINF:-1,Us- Cartoon Network US
+http://linux-app.tv:6204/mohammad/mohammad/10434
+#EXTINF:-1,Us- CBS Sport HD
+http://linux-app.tv:6204/mohammad/mohammad/10433
+#EXTINF:-1,Us- CBS US
+http://linux-app.tv:6204/mohammad/mohammad/10432
+#EXTINF:-1,Us- CINEMAX HD
+http://linux-app.tv:6204/mohammad/mohammad/10431
+#EXTINF:-1,Us- CNBC US
+http://linux-app.tv:6204/mohammad/mohammad/10429
+#EXTINF:-1,Us- CNN US HD
+http://linux-app.tv:6204/mohammad/mohammad/10428
+#EXTINF:-1,Us- Discovery Channel US HD
+http://linux-app.tv:6204/mohammad/mohammad/10424
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://linux-app.tv:6204/mohammad/mohammad/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://linux-app.tv:6204/mohammad/mohammad/10422
+#EXTINF:-1,Us- Discovery Science US HD
+http://linux-app.tv:6204/mohammad/mohammad/10421
+#EXTINF:-1,Us- Disney Channel US
+http://linux-app.tv:6204/mohammad/mohammad/10420
+#EXTINF:-1,Us- Disney Junior US
+http://linux-app.tv:6204/mohammad/mohammad/10419
+#EXTINF:-1,Us- Fox sport 1 HD
+http://linux-app.tv:6204/mohammad/mohammad/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://linux-app.tv:6204/mohammad/mohammad/10415
+#EXTINF:-1,Us- FX HD
+http://linux-app.tv:6204/mohammad/mohammad/10414
+#EXTINF:-1,Us- GSN HD
+http://linux-app.tv:6204/mohammad/mohammad/10412
+#EXTINF:-1,Us- PAC-12 Arizona HD
+http://linux-app.tv:6204/mohammad/mohammad/10642
+#EXTINF:-1,Us- PAC-12 Bay Area HD
+http://linux-app.tv:6204/mohammad/mohammad/10641
+#EXTINF:-1,Us- PAC-12 Los Angeles HD
+http://linux-app.tv:6204/mohammad/mohammad/10640
+#EXTINF:-1,Us- PAC-12 Mountain HD-
+http://linux-app.tv:6204/mohammad/mohammad/10639
+#EXTINF:-1,Us- PAC-12 Oregon HD
+http://linux-app.tv:6204/mohammad/mohammad/10638
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://linux-app.tv:6204/mohammad/mohammad/10393
+#EXTINF:-1,Us- SLICE HD
+http://linux-app.tv:6204/mohammad/mohammad/10392
+#EXTINF:-1,Us- Starz HD US
+http://linux-app.tv:6204/mohammad/mohammad/10390
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://linux-app.tv:6204/mohammad/mohammad/10389
+#EXTINF:-1,Us- Syfy HD
+http://linux-app.tv:6204/mohammad/mohammad/10388
+#EXTINF:-1,Us- SyFy HD USA
+http://linux-app.tv:6204/mohammad/mohammad/10387
+#EXTINF:-1,Us- TBS USA
+http://linux-app.tv:6204/mohammad/mohammad/10386
+#EXTINF:-1,Us- TLC HD
+http://linux-app.tv:6204/mohammad/mohammad/10385
+#EXTINF:-1,Us- TNT US
+http://linux-app.tv:6204/mohammad/mohammad/10384
+#EXTINF:-1,Us- TRU TV HD
+http://linux-app.tv:6204/mohammad/mohammad/10383
+#EXTINF:-1,Us- TSN 1 HD
+http://linux-app.tv:6204/mohammad/mohammad/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://linux-app.tv:6204/mohammad/mohammad/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://linux-app.tv:6204/mohammad/mohammad/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://linux-app.tv:6204/mohammad/mohammad/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://linux-app.tv:6204/mohammad/mohammad/10632
+#EXTINF:-1,Us- TV Land HD
+http://linux-app.tv:6204/mohammad/mohammad/10382
+#EXTINF:-1,Us- VH1 HD US
+http://linux-app.tv:6204/mohammad/mohammad/10380
+#EXTINF:-1,Us- Viceland TV
+http://linux-app.tv:6204/mohammad/mohammad/10379
+#EXTINF:-1,Us- WE HD
+http://linux-app.tv:6204/mohammad/mohammad/10378
+#EXTINF:-1,Us- Weather channel
+http://linux-app.tv:6204/mohammad/mohammad/10377
+#EXTINF:-1,Us- WWE HD
+http://linux-app.tv:6204/mohammad/mohammad/10376
+
+#EXTINF:-1,UK: 3E
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6031.ts
+#EXTINF:-1,UK: 4 Seven
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5978.ts
+#EXTINF:-1,UK: 4Music
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6030.ts
+#EXTINF:-1,UK: 5Star
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5977.ts
+#EXTINF:-1,UK: 5USA
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5970.ts
+#EXTINF:-1,UK: Akaal Channel
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5982.ts
+#EXTINF:-1,UK: ALIBI
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5976.ts
+#EXTINF:-1,UK: AMC from BT
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5981.ts
+#EXTINF:-1,UK: Animal Planet
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5971.ts
+#EXTINF:-1,UK: At The Races
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5966.ts
+#EXTINF:-1,UK: ATN India
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5980.ts
+#EXTINF:-1,UK: Baby TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6059.ts
+#EXTINF:-1,UK: BBC 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5975.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5979.ts
+#EXTINF:-1,UK: BBC 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5968.ts
+#EXTINF:-1,UK: BBC 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5974.ts
+#EXTINF:-1,UK: BBC 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5969.ts
+#EXTINF:-1,UK: BBC News
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5972.ts
+#EXTINF:-1,UK: BET
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6051.ts
+#EXTINF:-1,UK: Bike
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6029.ts
+#EXTINF:-1,UK: Blaze
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6028.ts
+#EXTINF:-1,UK: Boomerang
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6027.ts
+#EXTINF:-1,UK: Boxnation
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6063.ts
+#EXTINF:-1,UK: BT SPORT 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5915.ts
+#EXTINF:-1,UK: BT SPORT 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5914.ts
+#EXTINF:-1,UK: BT SPORT 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5913.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6058.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6057.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6056.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6055.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6054.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6053.ts
+#EXTINF:-1,UK: BT SPORTS 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6044.ts
+#EXTINF:-1,UK: BT SPORTS 2 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6043.ts
+#EXTINF:-1,UK: BT SPORTS 3 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6042.ts
+#EXTINF:-1,UK: BT Sports ESPN
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5912.ts
+#EXTINF:-1,UK: Cartoon Network
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6075.ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5941.ts
+#EXTINF:-1,UK: Cartoonito
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6026.ts
+#EXTINF:-1,UK: CBBC
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6025.ts
+#EXTINF:-1,UK: Cbeebies HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5983.ts
+#EXTINF:-1,UK: CBS Action
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6062.ts
+#EXTINF:-1,UK: CBS Drama
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5965.ts
+#EXTINF:-1,UK: CBS Reality
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5947.ts
+#EXTINF:-1,UK: Challenge
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5964.ts
+#EXTINF:-1,UK: Channel 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6061.ts
+#EXTINF:-1,UK: Channel 5
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5899.ts
+#EXTINF:-1,UK: Channel AKA
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6024.ts
+#EXTINF:-1,UK: Chart Show TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6023.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5885.ts
+#EXTINF:-1,UK: CNBC
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5948.ts
+#EXTINF:-1,UK: CNN HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6022.ts
+#EXTINF:-1,UK: Comedy Central
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5949.ts
+#EXTINF:-1,UK: ComedyXtra
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5950.ts
+#EXTINF:-1,UK: Community
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6021.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6070.ts
+#EXTINF:-1,UK: Dave
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5951.ts
+#EXTINF:-1,UK: Dave ja vu
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6020.ts
+#EXTINF:-1,UK: Discovery Channel
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6050.ts
+#EXTINF:-1,UK: Discovery History
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6068.ts
+#EXTINF:-1,UK: Discovery Science
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6066.ts
+#EXTINF:-1,UK: Discovery Shed
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6019.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6065.ts
+#EXTINF:-1,UK: Disney Channel
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5928.ts
+#EXTINF:-1,UK: Disney Jr.
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6067.ts
+#EXTINF:-1,UK: Disney XD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6018.ts
+#EXTINF:-1,UK: DMAX
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6069.ts
+#EXTINF:-1,UK: Drama
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5963.ts
+#EXTINF:-1,UK: E! Entertainment
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6074.ts
+#EXTINF:-1,UK: E4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6071.ts
+#EXTINF:-1,UK: Eden
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5923.ts
+#EXTINF:-1,UK: eir Sport 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6049.ts
+#EXTINF:-1,UK: eir Sport 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6082.ts
+#EXTINF:-1,UK: Eurosport 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6073.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6033.ts
+#EXTINF:-1,UK: Eurosport 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6072.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6032.ts
+#EXTINF:-1,UK: Film 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5952.ts
+#EXTINF:-1,UK: FLAVA
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6017.ts
+#EXTINF:-1,UK: Food Network
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5878.ts
+#EXTINF:-1,UK: Forces TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6016.ts
+#EXTINF:-1,UK: FOX
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5879.ts
+#EXTINF:-1,UK: Fox News
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5962.ts
+#EXTINF:-1,UK: GOLD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5934.ts
+#EXTINF:-1,UK: H2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6015.ts
+#EXTINF:-1,UK: History
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6014.ts
+#EXTINF:-1,UK: Home
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6013.ts
+#EXTINF:-1,UK: Home&Health
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5945.ts
+#EXTINF:-1,UK: Horror Channel
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5953.ts
+#EXTINF:-1,UK: Horse Country
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6012.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5884.ts
+#EXTINF:-1,UK: Irish TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5880.ts
+#EXTINF:-1,UK: ITV 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6081.ts
+#EXTINF:-1,UK: ITV 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6080.ts
+#EXTINF:-1,UK: ITV 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6079.ts
+#EXTINF:-1,UK: ITV 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6078.ts
+#EXTINF:-1,UK: ITV BE
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6077.ts
+#EXTINF:-1,UK: ITV Encore
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6076.ts
+#EXTINF:-1,UK: Kix
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6011.ts
+#EXTINF:-1,UK: Liverpool TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5881.ts
+#EXTINF:-1,UK: Living UK
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5954.ts
+#EXTINF:-1,UK: London Live
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6010.ts
+#EXTINF:-1,UK: More4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5892.ts
+#EXTINF:-1,UK: Motors TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5889.ts
+#EXTINF:-1,UK: Movies 24
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5891.ts
+#EXTINF:-1,UK: Movies4men
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5943.ts
+#EXTINF:-1,UK: MTV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5883.ts
+#EXTINF:-1,UK: MTV BASE
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6009.ts
+#EXTINF:-1,UK: MTV CLASSIC
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6008.ts
+#EXTINF:-1,UK: MTV DANCE
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6007.ts
+#EXTINF:-1,UK: MTV Hits
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5882.ts
+#EXTINF:-1,UK: MTV MUSIC
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6006.ts
+#EXTINF:-1,UK: MTV ROCKS
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6005.ts
+#EXTINF:-1,UK: MUTV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5893.ts
+#EXTINF:-1,UK: My 5
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6004.ts
+#EXTINF:-1,UK: National Geographic
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5955.ts
+#EXTINF:-1,UK: National Geographic Wild
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5887.ts
+#EXTINF:-1,UK: Nick Jr
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5890.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5888.ts
+#EXTINF:-1,UK: Nickelodeon
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5894.ts
+#EXTINF:-1,UK: Nicktoons
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5956.ts
+#EXTINF:-1,UK: Nollywood Movies
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5886.ts
+#EXTINF:-1,UK: Now 80's
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6003.ts
+#EXTINF:-1,UK: Oireachtas
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6002.ts
+#EXTINF:-1,UK: PBS America
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5946.ts
+#EXTINF:-1,UK: Pick TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5898.ts
+#EXTINF:-1,UK: POP
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6001.ts
+#EXTINF:-1,UK: Premier Sports
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5897.ts
+#EXTINF:-1,UK: Quest
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5895.ts
+#EXTINF:-1,UK: Racing UK
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5896.ts
+#EXTINF:-1,UK: Racing UK HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5973.ts
+#EXTINF:-1,UK: Real Lives
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5907.ts
+#EXTINF:-1,UK: Really
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5902.ts
+#EXTINF:-1,UK: RTE 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5957.ts
+#EXTINF:-1,UK: RTE 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5958.ts
+#EXTINF:-1,UK: RTE jr
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6000.ts
+#EXTINF:-1,UK: RTE News Now
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5999.ts
+#EXTINF:-1,UK: S4C
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5998.ts
+#EXTINF:-1,UK: Scuzz
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5997.ts
+#EXTINF:-1,UK: Sky 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5924.ts
+#EXTINF:-1,UK: Sky 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5911.ts
+#EXTINF:-1,UK: Sky Action
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5996.ts
+#EXTINF:-1,UK: Sky Arts
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5910.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5905.ts
+#EXTINF:-1,UK: Sky Living
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5944.ts
+#EXTINF:-1,UK: SKY MOVIES ACTION
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5900.ts
+#EXTINF:-1,UK: SKY MOVIES COMEDY
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5906.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5940.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6045.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5901.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5909.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIERE
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5903.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5908.ts
+#EXTINF:-1,UK: SKY MOVIES SELECT
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5904.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5995.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5927.ts
+#EXTINF:-1,UK: Sky News
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5959.ts
+#EXTINF:-1,UK: Sky News Arabia
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5994.ts
+#EXTINF:-1,UK: Sky Sport Mix HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6034.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5921.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6041.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5920.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6040.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5919.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6039.ts
+#EXTINF:-1,UK: SKY SPORTS 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5918.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6038.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5917.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6037.ts
+#EXTINF:-1,UK: SKY SPORTS F1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5922.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6036.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5925.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5916.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6035.ts
+#EXTINF:-1,UK: Sony SAB
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5993.ts
+#EXTINF:-1,UK: SONY SET MAX
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5942.ts
+#EXTINF:-1,UK: Sony TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5926.ts
+#EXTINF:-1,UK: Spike
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5933.ts
+#EXTINF:-1,UK: Starz TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5992.ts
+#EXTINF:-1,UK: STV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5991.ts
+#EXTINF:-1,UK: SyFy
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5929.ts
+#EXTINF:-1,UK: TCM
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5960.ts
+#EXTINF:-1,UK: TG4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5930.ts
+#EXTINF:-1,UK: The Vault
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5932.ts
+#EXTINF:-1,UK: Tiny Pop
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5990.ts
+#EXTINF:-1,UK: TLC
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5931.ts
+#EXTINF:-1,UK: Travel Channel
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5989.ts
+#EXTINF:-1,UK: Tru TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6047.ts
+#EXTINF:-1,UK: True Crime
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5988.ts
+#EXTINF:-1,UK: True Entertainment
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5939.ts
+#EXTINF:-1,UK: True Movies
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5936.ts
+#EXTINF:-1,UK: True Movies 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6064.ts
+#EXTINF:-1,UK: TV3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6060.ts
+#EXTINF:-1,UK: TV5 Monde
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5987.ts
+#EXTINF:-1,UK: Universal Channel
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5937.ts
+#EXTINF:-1,UK: UTV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5986.ts
+#EXTINF:-1,UK: VH1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5935.ts
+#EXTINF:-1,UK: VH1 Classic
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5938.ts
+#EXTINF:-1,UK: Viceland
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5985.ts
+#EXTINF:-1,UK: Vintage TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5984.ts
+#EXTINF:-1,UK: VIVA
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5967.ts
+#EXTINF:-1,UK: Watch
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6048.ts
+#EXTINF:-1,UK: Yesterday
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5961.ts
+#EXTINF:-1,UK: ZEE CINEMA
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6052.ts
+#EXTINF:-1,UK: ZEE TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6046.ts
+
+#EXTINF:-1,US: Tsn 1
+http://ip.avov4.us:8000/ahmet54/54ahmet/2023
+#EXTINF:-1,US: Tsn 2
+http://ip.avov4.us:8000/ahmet54/54ahmet/2022
+#EXTINF:-1,US: Tsn 3
+http://ip.avov4.us:8000/ahmet54/54ahmet/2021
+#EXTINF:-1,US: Tsn 4
+http://ip.avov4.us:8000/ahmet54/54ahmet/2020
+#EXTINF:-1,US: Tsn 5
+http://ip.avov4.us:8000/ahmet54/54ahmet/2019
+
+#EXTINF:-1,Uk: Sky Sports Golf
+http://xxultraxx.com:80/live/fouad/fouad/96.m3u8
+#EXTINF:-1,Uk: Sky Sports Golf HD
+http://xxultraxx.com:80/live/fouad/fouad/9779.m3u8
+#EXTINF:-1,Uk: Sky Sports Action
+http://xxultraxx.com:80/live/fouad/fouad/38.m3u8
+#EXTINF:-1,Uk: Sky Sports Action HD
+http://xxultraxx.com:80/live/fouad/fouad/9772.m3u8
+#EXTINF:-1,Uk: Sky Sports Arena
+http://xxultraxx.com:80/live/fouad/fouad/3963.m3u8
+#EXTINF:-1,Uk: Sky Sports Arena HD
+http://xxultraxx.com:80/live/fouad/fouad/9773.m3u8
+#EXTINF:-1,Uk: Sky Sports Cricket
+http://xxultraxx.com:80/live/fouad/fouad/37.m3u8
+#EXTINF:-1,Uk: Sky Sports Cricket HD
+http://xxultraxx.com:80/live/fouad/fouad/9774.m3u8
+#EXTINF:-1,Uk: Sky Sports Main Event
+http://xxultraxx.com:80/live/fouad/fouad/36.m3u8
+#EXTINF:-1,Uk: Sky Sports Events HD
+http://xxultraxx.com:80/live/fouad/fouad/9775.m3u8
+#EXTINF:-1,Uk: Sky Sports Football
+http://xxultraxx.com:80/live/fouad/fouad/3962.m3u8
+#EXTINF:-1,Uk: Sky Sports Football HD
+http://xxultraxx.com:80/live/fouad/fouad/9776.m3u8
+#EXTINF:-1,Uk: Sky Sports Premier League
+http://xxultraxx.com:80/live/fouad/fouad/95.m3u8
+#EXTINF:-1,Uk: Sky Sports League HD
+http://xxultraxx.com:80/live/fouad/fouad/9777.m3u8
+#EXTINF:-1,Uk: Sky Sport Mix
+http://xxultraxx.com:80/live/fouad/fouad/4661.m3u8
+#EXTINF:-1,Uk: Sky Sports Mix HD
+http://xxultraxx.com:80/live/fouad/fouad/9778.m3u8
+#EXTINF:-1,Uk: Sky Sport F1
+http://xxultraxx.com:80/live/fouad/fouad/39.m3u8
+#EXTINF:-1,Uk: Sky Sport F1 HD
+http://xxultraxx.com:80/live/fouad/fouad/3967.m3u8
+#EXTINF:-1,Uk: BT Sport 1
+http://xxultraxx.com:80/live/fouad/fouad/702.m3u8
+#EXTINF:-1,Uk: BT Sport 1HD
+http://xxultraxx.com:80/live/fouad/fouad/4658.m3u8
+#EXTINF:-1,Uk: BT Sport 2
+http://xxultraxx.com:80/live/fouad/fouad/703.m3u8
+#EXTINF:-1,Uk: BT Sport 2HD
+http://xxultraxx.com:80/live/fouad/fouad/4659.m3u8
+#EXTINF:-1,Uk: BT Sport 3
+http://xxultraxx.com:80/live/fouad/fouad/10423.m3u8
+#EXTINF:-1,Uk: BT Sport 3HD
+http://xxultraxx.com:80/live/fouad/fouad/4660.m3u8
+#EXTINF:-1,Uk: BT Sport Extra
+http://xxultraxx.com:80/live/fouad/fouad/6971.m3u8
+#EXTINF:-1,Uk: BT Sport ESPN HD
+http://xxultraxx.com:80/live/fouad/fouad/6970.m3u8
+#EXTINF:-1,Uk: Box Nation
+http://xxultraxx.com:80/live/fouad/fouad/6930.m3u8
+#EXTINF:-1,Uk: Sky Sport News
+http://xxultraxx.com:80/live/fouad/fouad/4662.m3u8
+#EXTINF:-1,Uk: Sky.Racing
+http://xxultraxx.com:80/live/fouad/fouad/4653.m3u8
+#EXTINF:-1,Uk: LiverPool FC
+http://xxultraxx.com:80/live/fouad/fouad/4655.m3u8
+#EXTINF:-1,Uk: At The-Races
+http://xxultraxx.com:80/live/fouad/fouad/4665.m3u8
+#EXTINF:-1,Uk: Eir Sport 1
+http://xxultraxx.com:80/live/fouad/fouad/3964.m3u8
+#EXTINF:-1,Uk: SkyPremier Sport
+http://xxultraxx.com:80/live/fouad/fouad/2590.m3u8
+#EXTINF:-1,Uk: Sky Premiere Sports
+http://xxultraxx.com:80/live/fouad/fouad/3965.m3u8
+#EXTINF:-1,Uk: EuroSport
+http://xxultraxx.com:80/live/fouad/fouad/4565.m3u8
+#EXTINF:-1,Uk: EuroSport 2
+http://xxultraxx.com:80/live/fouad/fouad/4566.m3u8
+#EXTINF:-1,Uk: Motors Tv
+http://xxultraxx.com:80/live/fouad/fouad/2621.m3u8
+#EXTINF:-1,Uk: Chelsea Tv
+http://xxultraxx.com:80/live/fouad/fouad/2588.m3u8
+#EXTINF:-1,Uk: Sky Movies Action
+http://xxultraxx.com:80/live/fouad/fouad/24.m3u8
+#EXTINF:-1,Uk: Sky Movies Thriller
+http://xxultraxx.com:80/live/fouad/fouad/944.m3u8
+#EXTINF:-1,Uk: Sky Movies Family
+http://xxultraxx.com:80/live/fouad/fouad/27.m3u8
+#EXTINF:-1,Uk: Sky Movies Drama
+http://xxultraxx.com:80/live/fouad/fouad/422.m3u8
+#EXTINF:-1,Uk: Sky Movies Disney
+http://xxultraxx.com:80/live/fouad/fouad/29.m3u8
+#EXTINF:-1,Uk: Sky Movies Select
+http://xxultraxx.com:80/live/fouad/fouad/33.m3u8
+#EXTINF:-1,Uk: Sky Movies Comedy
+http://xxultraxx.com:80/live/fouad/fouad/25.m3u8
+#EXTINF:-1,Uk: Sky Movies Premiere
+http://xxultraxx.com:80/live/fouad/fouad/31.m3u8
+#EXTINF:-1,Uk: Sky Movies ScFi & Horror
+http://xxultraxx.com:80/live/fouad/fouad/32.m3u8
+#EXTINF:-1,Uk: Sky Movies Greats
+http://xxultraxx.com:80/live/fouad/fouad/9770.m3u8
+#EXTINF:-1,ˢᵏʸ ᵁᵏ Sky Movies Hits
+http://xxultraxx.com:80/live/fouad/fouad/9771.m3u8
+#EXTINF:-1,Uk: Sky Showcase
+http://xxultraxx.com:80/live/fouad/fouad/2606.m3u8
+#EXTINF:-1,Uk: Tru.TV
+http://xxultraxx.com:80/live/fouad/fouad/4560.m3u8
+#EXTINF:-1,Uk: True.Crime
+http://xxultraxx.com:80/live/fouad/fouad/4562.m3u8
+#EXTINF:-1,Uk: True Movie
+http://xxultraxx.com:80/live/fouad/fouad/744.m3u8
+#EXTINF:-1,Uk: 4 Seven
+http://xxultraxx.com:80/live/fouad/fouad/927.m3u8
+#EXTINF:-1,Uk: True Entertainment
+http://xxultraxx.com:80/live/fouad/fouad/6933.m3u8
+#EXTINF:-1,Uk: Sky One
+http://xxultraxx.com:80/live/fouad/fouad/946.m3u8
+#EXTINF:-1,Uk: Sky Tow
+http://xxultraxx.com:80/live/fouad/fouad/430.m3u8
+#EXTINF:-1,Uk: Rte One
+http://xxultraxx.com:80/live/fouad/fouad/2578.m3u8
+#EXTINF:-1,Uk: Rte Tow
+http://xxultraxx.com:80/live/fouad/fouad/2579.m3u8
+#EXTINF:-1,Uk: Rte Jr
+http://xxultraxx.com:80/live/fouad/fouad/9782.m3u8
+#EXTINF:-1,Uk: CBS Action
+http://xxultraxx.com:80/live/fouad/fouad/2585.m3u8
+#EXTINF:-1,Uk: CBS Drama
+http://xxultraxx.com:80/live/fouad/fouad/2586.m3u8
+#EXTINF:-1,Uk: CBS Reality
+http://xxultraxx.com:80/live/fouad/fouad/2587.m3u8
+#EXTINF:-1,Uk: Comedy Central
+http://xxultraxx.com:80/live/fouad/fouad/2593.m3u8
+#EXTINF:-1,Uk: Comedy Central Extra
+http://xxultraxx.com:80/live/fouad/fouad/2594.m3u8
+#EXTINF:-1,Uk: Sky Atlantic
+http://xxultraxx.com:80/live/fouad/fouad/6931.m3u8
+#EXTINF:-1,Uk: itv.1
+http://xxultraxx.com:80/live/fouad/fouad/198.m3u8
+#EXTINF:-1,Uk: itv.2
+http://xxultraxx.com:80/live/fouad/fouad/199.m3u8
+#EXTINF:-1,Uk: itv.3
+http://xxultraxx.com:80/live/fouad/fouad/200.m3u8
+#EXTINF:-1,Uk: itv 4
+http://xxultraxx.com:80/live/fouad/fouad/201.m3u8
+#EXTINF:-1,Uk: itv Be
+http://xxultraxx.com:80/live/fouad/fouad/6928.m3u8
+#EXTINF:-1,Uk: BBC One
+http://xxultraxx.com:80/live/fouad/fouad/740.m3u8
+#EXTINF:-1,Uk: BBC Tow
+http://xxultraxx.com:80/live/fouad/fouad/741.m3u8
+#EXTINF:-1,Uk: BBC Three
+http://xxultraxx.com:80/live/fouad/fouad/750.m3u8
+#EXTINF:-1,Uk: BBC Four
+http://xxultraxx.com:80/live/fouad/fouad/714.m3u8
+#EXTINF:-1,Uk: BBC News
+http://xxultraxx.com:80/live/fouad/fouad/546.m3u8
+#EXTINF:-1,Uk: BBC World
+http://xxultraxx.com:80/live/fouad/fouad/4657.m3u8
+#EXTINF:-1,Uk: Nick.JR
+http://xxultraxx.com:80/live/fouad/fouad/2628.m3u8
+#EXTINF:-1,Uk: NickToons
+http://xxultraxx.com:80/live/fouad/fouad/955.m3u8
+#EXTINF:-1,Uk: Nickelodeon
+http://xxultraxx.com:80/live/fouad/fouad/956.m3u8
+#EXTINF:-1,Uk: Disney XD
+http://xxultraxx.com:80/live/fouad/fouad/2623.m3u8
+#EXTINF:-1,Uk: Disney Junior
+http://xxultraxx.com:80/live/fouad/fouad/990.m3u8
+#EXTINF:-1,Uk: Disney Channel
+http://xxultraxx.com:80/live/fouad/fouad/2603.m3u8
+#EXTINF:-1,Uk: Cartoon Network
+http://xxultraxx.com:80/live/fouad/fouad/2599.m3u8
+#EXTINF:-1,Uk: Boomerang
+http://xxultraxx.com:80/live/fouad/fouad/2629.m3u8
+#EXTINF:-1,Uk: C.Beebies
+http://xxultraxx.com:80/live/fouad/fouad/6935.m3u8
+#EXTINF:-1,Uk: Baby TV
+http://xxultraxx.com:80/live/fouad/fouad/6934.m3u8
+#EXTINF:-1,Uk: 3 E
+http://xxultraxx.com:80/live/fouad/fouad/2595.m3u8
+#EXTINF:-1,Uk: E 4
+http://xxultraxx.com:80/live/fouad/fouad/2580.m3u8
+#EXTINF:-1,Uk: SyFy
+http://xxultraxx.com:80/live/fouad/fouad/963.m3u8
+#EXTINF:-1,Uk: Viceland
+http://xxultraxx.com:80/live/fouad/fouad/9784.m3u8
+#EXTINF:-1,Uk: WB Tv
+http://xxultraxx.com:80/live/fouad/fouad/6972.m3u8
+#EXTINF:-1,Uk: Euro News
+http://xxultraxx.com:80/live/fouad/fouad/9781.m3u8
+#EXTINF:-1,Uk: Horse & Coutry
+http://xxultraxx.com:80/live/fouad/fouad/9788.m3u8
+#EXTINF:-1,Uk: MY5
+http://xxultraxx.com:80/live/fouad/fouad/9789.m3u8
+#EXTINF:-1,Uk: D.Drama
+http://xxultraxx.com:80/live/fouad/fouad/2614.m3u8
+#EXTINF:-1,Uk: Yesterday
+http://xxultraxx.com:80/live/fouad/fouad/2576.m3u8
+#EXTINF:-1,Uk: E!ntertainment
+http://xxultraxx.com:80/live/fouad/fouad/2607.m3u8
+#EXTINF:-1,Uk: T.L.C
+http://xxultraxx.com:80/live/fouad/fouad/2591.m3u8
+#EXTINF:-1,Uk: Sky.Arts
+http://xxultraxx.com:80/live/fouad/fouad/2620.m3u8
+#EXTINF:-1,Uk: Bravo
+http://xxultraxx.com:80/live/fouad/fouad/4654.m3u8
+#EXTINF:-1,Uk: Tcm
+http://xxultraxx.com:80/live/fouad/fouad/2611.m3u8
+#EXTINF:-1,Uk: Sky.Living
+http://xxultraxx.com:80/live/fouad/fouad/2605.m3u8
+#EXTINF:-1,Uk: Home
+http://xxultraxx.com:80/live/fouad/fouad/2598.m3u8
+#EXTINF:-1,Uk: Gold
+http://xxultraxx.com:80/live/fouad/fouad/2582.m3u8
+#EXTINF:-1,Uk: Fox
+http://xxultraxx.com:80/live/fouad/fouad/2601.m3u8
+#EXTINF:-1,Uk: Food Network
+http://xxultraxx.com:80/live/fouad/fouad/2613.m3u8
+#EXTINF:-1,Uk: Channel 4
+http://xxultraxx.com:80/live/fouad/fouad/743.m3u8
+#EXTINF:-1,Uk: Channel 5
+http://xxultraxx.com:80/live/fouad/fouad/396.m3u8
+#EXTINF:-1,Uk: Film 4
+http://xxultraxx.com:80/live/fouad/fouad/2583.m3u8
+#EXTINF:-1,Uk: Dmax
+http://xxultraxx.com:80/live/fouad/fouad/2584.m3u8
+#EXTINF:-1,Uk: Dave
+http://xxultraxx.com:80/live/fouad/fouad/745.m3u8
+#EXTINF:-1,Uk: Alibi
+http://xxultraxx.com:80/live/fouad/fouad/2581.m3u8
+#EXTINF:-1,Uk: 5 USA
+http://xxultraxx.com:80/live/fouad/fouad/2597.m3u8
+#EXTINF:-1,Uk: 5 STAR
+http://xxultraxx.com:80/live/fouad/fouad/2596.m3u8
+#EXTINF:-1,Uk: Horror
+http://xxultraxx.com:80/live/fouad/fouad/2608.m3u8
+#EXTINF:-1,Uk: Mu Tv
+http://xxultraxx.com:80/live/fouad/fouad/4564.m3u8
+#EXTINF:-1,Uk: Watch
+http://xxultraxx.com:80/live/fouad/fouad/4559.m3u8
+#EXTINF:-1,Uk: TG 4
+http://xxultraxx.com:80/live/fouad/fouad/4561.m3u8
+#EXTINF:-1,Uk: Eden
+http://xxultraxx.com:80/live/fouad/fouad/6929.m3u8
+#EXTINF:-1,Uk: Universal
+http://xxultraxx.com:80/live/fouad/fouad/4567.m3u8
+#EXTINF:-1,Uk: C.N.N
+http://xxultraxx.com:80/live/fouad/fouad/4656.m3u8
+#EXTINF:-1,Uk: London
+http://xxultraxx.com:80/live/fouad/fouad/3001.m3u8
+#EXTINF:-1,UK: Sky News
+http://xxultraxx.com:80/live/fouad/fouad/4371.m3u8
+#EXTINF:-1,Uk: Travel
+http://xxultraxx.com:80/live/fouad/fouad/4663.m3u8
+#EXTINF:-1,Uk: History
+http://xxultraxx.com:80/live/fouad/fouad/2622.m3u8
+#EXTINF:-1,Uk: Discovery Channel
+http://xxultraxx.com:80/live/fouad/fouad/746.m3u8
+#EXTINF:-1,Uk: Discovery Science
+http://xxultraxx.com:80/live/fouad/fouad/749.m3u8
+#EXTINF:-1,Uk: Crime and Investigation
+http://xxultraxx.com:80/live/fouad/fouad/748.m3u8
+#EXTINF:-1,Uk: Discovery Turbo
+http://xxultraxx.com:80/live/fouad/fouad/2625.m3u8
+#EXTINF:-1,Uk: Discovery Shed
+http://xxultraxx.com:80/live/fouad/fouad/2626.m3u8
+#EXTINF:-1,Uk: Discovery History
+http://xxultraxx.com:80/live/fouad/fouad/747.m3u8
+#EXTINF:-1,Uk: Home Health
+http://xxultraxx.com:80/live/fouad/fouad/2627.m3u8
+#EXTINF:-1,Uk: Animal Planet
+http://xxultraxx.com:80/live/fouad/fouad/738.m3u8
+#EXTINF:-1,Uk: NationalGeo Wild
+http://xxultraxx.com:80/live/fouad/fouad/957.m3u8
+#EXTINF:-1,Uk: National Geographic
+http://xxultraxx.com:80/live/fouad/fouad/920.m3u8
+#EXTINF:-1,Uk: VH.1
+http://xxultraxx.com:80/live/fouad/fouad/4558.m3u8
+#EXTINF:-1,Uk: MTV.Hits
+http://xxultraxx.com:80/live/fouad/fouad/414.m3u8
+#EXTINF:-1,Uk: MTV Music
+http://xxultraxx.com:80/live/fouad/fouad/2604.m3u8
+#EXTINF:-1,Uk: MTV Dance
+http://xxultraxx.com:80/live/fouad/fouad/413.m3u8
+#EXTINF:-1,Uk: MTV.Classic
+http://xxultraxx.com:80/live/fouad/fouad/885.m3u8
+#EXTINF:-1,Uk: MTV Rocks
+http://xxultraxx.com:80/live/fouad/fouad/6932.m3u8
+#EXTINF:-1,UK 3E Ireland FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11200.m3u8
+#EXTINF:-1,UK Alibi HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11250.m3u8
+#EXTINF:-1,UK AMC
+http://xxultraxx.com:80/live/fouad/fouad/11249.m3u8
+#EXTINF:-1,UK Animal Planet FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11248.m3u8
+#EXTINF:-1,UK BBC 1 hd
+http://xxultraxx.com:80/live/fouad/fouad/11274.m3u8
+#EXTINF:-1,UK BBC 2
+http://xxultraxx.com:80/live/fouad/fouad/11273.m3u8
+#EXTINF:-1,UK BBC 3
+http://xxultraxx.com:80/live/fouad/fouad/11272.m3u8
+#EXTINF:-1,UK BBC 4
+http://xxultraxx.com:80/live/fouad/fouad/11271.m3u8
+#EXTINF:-1,UK BBC Four FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11199.m3u8
+#EXTINF:-1,UK BBC FOUR HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11198.m3u8
+#EXTINF:-1,UK BBC NEWS
+http://xxultraxx.com:80/live/fouad/fouad/11270.m3u8
+#EXTINF:-1,ᵁᵏ BBC NEWS FHD 1080
+http://xxultraxx.com:80/live/fouad/fouad/11197.m3u8
+#EXTINF:-1,UK BBC NEWS HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11196.m3u8
+#EXTINF:-1,UK BBC One FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11195.m3u8
+#EXTINF:-1,UK BBC Two FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11192.m3u8
+#EXTINF:-1,UK BBC1 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11191.m3u8
+#EXTINF:-1,UK BBC2 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11190.m3u8
+#EXTINF:-1,UK Be 3 FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11189.m3u8
+#EXTINF:-1,UK BLOOMBERG
+http://xxultraxx.com:80/live/fouad/fouad/11269.m3u8
+#EXTINF:-1,UK BoxNation FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11202.m3u8
+#EXTINF:-1,UK Bravo
+http://xxultraxx.com:80/live/fouad/fouad/11247.m3u8
+#EXTINF:-1,UK BT Sports 2 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11246.m3u8
+#EXTINF:-1,UK BT Sports 3 FHD 1080
+http://xxultraxx.com:80/live/fouad/fouad/11245.m3u8
+#EXTINF:-1,UK BT Sports ESPN 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11286.m3u8
+#EXTINF:-1,UK BT Sports1 FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11244.m3u8
+#EXTINF:-1,UK Cartoonnetwork FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11243.m3u8
+#EXTINF:-1,UK CBBC
+http://xxultraxx.com:80/live/fouad/fouad/11242.m3u8
+#EXTINF:-1,UK CBBC FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11241.m3u8
+#EXTINF:-1,UK CBeebies FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11240.m3u8
+#EXTINF:-1,UK CHANNEL 4
+http://xxultraxx.com:80/live/fouad/fouad/11268.m3u8
+#EXTINF:-1,UK Channel 4 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11188.m3u8
+#EXTINF:-1,UK CHANNEL 5
+http://xxultraxx.com:80/live/fouad/fouad/11267.m3u8
+#EXTINF:-1,UK Channel 5 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11187.m3u8
+#EXTINF:-1,UK CITV
+http://xxultraxx.com:80/live/fouad/fouad/11238.m3u8
+#EXTINF:-1,UK CNBC EU
+http://xxultraxx.com:80/live/fouad/fouad/11266.m3u8
+#EXTINF:-1,UK CNN
+http://xxultraxx.com:80/live/fouad/fouad/11265.m3u8
+#EXTINF:-1,UK Comedy Centeral HD1080*
+http://xxultraxx.com:80/live/fouad/fouad/11237.m3u8
+#EXTINF:-1,UK Crime &Invietgation HD1080*
+http://xxultraxx.com:80/live/fouad/fouad/11285.m3u8
+#EXTINF:-1,ᵁᵏ Dave HD1080
+http://xxultraxx.com:80/live/fouad/fouad/11236.m3u8
+#EXTINF:-1,UK Discovery HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11235.m3u8
+#EXTINF:-1,UK E4
+http://xxultraxx.com:80/live/fouad/fouad/11264.m3u8
+#EXTINF:-1,UK E4 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11185.m3u8
+#EXTINF:-1,UK Eden HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11233.m3u8
+#EXTINF:-1,UK Eurosport 1 FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11231.m3u8
+#EXTINF:-1,UK Eurosport F2HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11230.m3u8
+#EXTINF:-1,UK FILM 4
+http://xxultraxx.com:80/live/fouad/fouad/11263.m3u8
+#EXTINF:-1,UK Film4 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11183.m3u8
+#EXTINF:-1,UK FOX HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11201.m3u8
+#EXTINF:-1,UK Good Food HD1080*
+http://xxultraxx.com:80/live/fouad/fouad/11229.m3u8
+#EXTINF:-1,UK H2 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11228.m3u8
+#EXTINF:-1,UK HEART
+http://xxultraxx.com:80/live/fouad/fouad/11262.m3u8
+#EXTINF:-1,UK History HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11284.m3u8
+#EXTINF:-1,UK HOME AND HEALTH  1
+http://xxultraxx.com:80/live/fouad/fouad/11227.m3u8
+#EXTINF:-1,UK HORROR CHANNEL
+http://xxultraxx.com:80/live/fouad/fouad/11226.m3u8
+#EXTINF:-1,UK HORROR CHANNEL  1
+http://xxultraxx.com:80/live/fouad/fouad/11225.m3u8
+#EXTINF:-1,UK HORSE & COUNTRY
+http://xxultraxx.com:80/live/fouad/fouad/11224.m3u8
+#EXTINF:-1,UK ITV
+http://xxultraxx.com:80/live/fouad/fouad/11261.m3u8
+#EXTINF:-1,UK ITV 2
+http://xxultraxx.com:80/live/fouad/fouad/11260.m3u8
+#EXTINF:-1,UK ITV 3
+http://xxultraxx.com:80/live/fouad/fouad/11259.m3u8
+#EXTINF:-1,UK ITV 4
+http://xxultraxx.com:80/live/fouad/fouad/11258.m3u8
+#EXTINF:-1,UK ITV BE
+http://xxultraxx.com:80/live/fouad/fouad/11283.m3u8
+#EXTINF:-1,UK ITV HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11179.m3u8
+#EXTINF:-1,UK ITV London FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11178.m3u8
+#EXTINF:-1,UK ITV Westcountry South West FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11174.m3u8
+#EXTINF:-1,UK ITV2 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11171.m3u8
+#EXTINF:-1,UK ITV3 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11170.m3u8
+#EXTINF:-1,UK ITV4 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11169.m3u8
+#EXTINF:-1,UK LifeTime HD1080*
+http://xxultraxx.com:80/live/fouad/fouad/11221.m3u8
+#EXTINF:-1,UK MAGIC
+http://xxultraxx.com:80/live/fouad/fouad/11257.m3u8
+#EXTINF:-1,UK More4 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11168.m3u8
+#EXTINF:-1,UK Nat Geo Wild HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11282.m3u8
+#EXTINF:-1,UK National Geographic HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11217.m3u8
+#EXTINF:-1,UK Nick FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11215.m3u8
+#EXTINF:-1,UK NOLLYWOOD
+http://xxultraxx.com:80/live/fouad/fouad/11214.m3u8
+#EXTINF:-1,UK Racing UK HD1080*
+http://xxultraxx.com:80/live/fouad/fouad/11213.m3u8
+#EXTINF:-1,UK sky 1 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11281.m3u8
+#EXTINF:-1,UK Sky Arts FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11211.m3u8
+#EXTINF:-1,UK Sky Atlantic HD1080*
+http://xxultraxx.com:80/live/fouad/fouad/11210.m3u8
+#EXTINF:-1,UK Sky Cinema Action & Adventure HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11167.m3u8
+#EXTINF:-1,UK Sky Cinema Comedy HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11166.m3u8
+#EXTINF:-1,UK Sky Cinema Crime & Thriller HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11165.m3u8
+#EXTINF:-1,UK Sky Cinema Disney HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11164.m3u8
+#EXTINF:-1,UK Sky Cinema Drama & Romance HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11163.m3u8
+#EXTINF:-1,UK Sky Cinema Family HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11162.m3u8
+#EXTINF:-1,UK Sky Cinema Greats HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11161.m3u8
+#EXTINF:-1,UK Sky Cinema Hits HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11160.m3u8
+#EXTINF:-1,UK Sky Cinema Premiere HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11159.m3u8
+#EXTINF:-1,UK Sky Cinema Sci-Fi & Horror HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11158.m3u8
+#EXTINF:-1,UK Sky Cinema Select HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11157.m3u8
+#EXTINF:-1,UK Sky Living HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11209.m3u8
+#EXTINF:-1,UK Sky Movies Action and Adventure
+http://xxultraxx.com:80/live/fouad/fouad/11124.m3u8
+#EXTINF:-1,UK Sky Movies Action and Adventure HD
+http://xxultraxx.com:80/live/fouad/fouad/11123.m3u8
+#EXTINF:-1,UK Sky Movies Comedy
+http://xxultraxx.com:80/live/fouad/fouad/11122.m3u8
+#EXTINF:-1,UK Sky Movies Comedy HD
+http://xxultraxx.com:80/live/fouad/fouad/11121.m3u8
+#EXTINF:-1,UK Sky Movies Crime and Thriller
+http://xxultraxx.com:80/live/fouad/fouad/11120.m3u8
+#EXTINF:-1,UK Sky Movies Crime and Thriller HD
+http://xxultraxx.com:80/live/fouad/fouad/11119.m3u8
+#EXTINF:-1,UK Sky Movies Disney
+http://xxultraxx.com:80/live/fouad/fouad/11118.m3u8
+#EXTINF:-1,UK Sky Movies Disney HD
+http://xxultraxx.com:80/live/fouad/fouad/11117.m3u8
+#EXTINF:-1,UK Sky Movies Drama and Romance
+http://xxultraxx.com:80/live/fouad/fouad/11116.m3u8
+#EXTINF:-1,UK Sky Movies Drama and Romance HD
+http://xxultraxx.com:80/live/fouad/fouad/11115.m3u8
+#EXTINF:-1,UK Sky Movies Family
+http://xxultraxx.com:80/live/fouad/fouad/11114.m3u8
+#EXTINF:-1,UK Sky Movies Family HD
+http://xxultraxx.com:80/live/fouad/fouad/11113.m3u8
+#EXTINF:-1,UK Sky Movies Modern Greats
+http://xxultraxx.com:80/live/fouad/fouad/11112.m3u8
+#EXTINF:-1,UK Sky Movies Modern Greats HD
+http://xxultraxx.com:80/live/fouad/fouad/11111.m3u8
+#EXTINF:-1,UK Sky Movies Premiere
+http://xxultraxx.com:80/live/fouad/fouad/11110.m3u8
+#EXTINF:-1,UK Sky Movies Premiere HD
+http://xxultraxx.com:80/live/fouad/fouad/11108.m3u8
+#EXTINF:-1,UK Sky Movies Sci-Fi horror
+http://xxultraxx.com:80/live/fouad/fouad/11107.m3u8
+#EXTINF:-1,UK Sky Movies Sci-Fi Horror HD
+http://xxultraxx.com:80/live/fouad/fouad/11106.m3u8
+#EXTINF:-1,UK Sky Movies Select
+http://xxultraxx.com:80/live/fouad/fouad/11105.m3u8
+#EXTINF:-1,UK Sky Movies Select HD
+http://xxultraxx.com:80/live/fouad/fouad/11104.m3u8
+#EXTINF:-1,UK Sky New HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11208.m3u8
+#EXTINF:-1,UK Sky News
+http://xxultraxx.com:80/live/fouad/fouad/11280.m3u8
+#EXTINF:-1,Uk : MTV Base
+http://xxultraxx.com:80/live/fouad/fouad/23376.m3u8
+#EXTINF:-1,UK: Sky Sports Box Office PPV
+http://xxultraxx.com:80/live/fouad/fouad/23377.m3u8
+#EXTINF:-1,UK: Sky Sports Box Office PPV (Live During Events Only)
+http://xxultraxx.com:80/live/fouad/fouad/23378.m3u8
+#EXTINF:-1,UK Sky Sports Action
+http://xxultraxx.com:80/live/fouad/fouad/11144.m3u8
+#EXTINF:-1,UK Sky Sports Action HD
+http://xxultraxx.com:80/live/fouad/fouad/11143.m3u8
+#EXTINF:-1,UK Sky Sports Action HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11156.m3u8
+#EXTINF:-1,UK sky sports arena
+http://xxultraxx.com:80/live/fouad/fouad/11142.m3u8
+#EXTINF:-1,UK Sky Sports Arena HD
+http://xxultraxx.com:80/live/fouad/fouad/11141.m3u8
+#EXTINF:-1,UK Sky Sports Arena HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11155.m3u8
+#EXTINF:-1,UK Sky Sports cricket
+http://xxultraxx.com:80/live/fouad/fouad/11140.m3u8
+#EXTINF:-1,UK Sky Sports cricket HD
+http://xxultraxx.com:80/live/fouad/fouad/11139.m3u8
+#EXTINF:-1,UK Sky Sports Cricket HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11154.m3u8
+#EXTINF:-1,UK Sky Sports F1
+http://xxultraxx.com:80/live/fouad/fouad/11138.m3u8
+#EXTINF:-1,UK Sky sports F1 HD
+http://xxultraxx.com:80/live/fouad/fouad/11137.m3u8
+#EXTINF:-1,UK Sky Sports F1 HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11153.m3u8
+#EXTINF:-1,UK sky sports football
+http://xxultraxx.com:80/live/fouad/fouad/11136.m3u8
+#EXTINF:-1,UK Sky Sports Football HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11152.m3u8
+#EXTINF:-1,UK Sky Sports Golf HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11151.m3u8
+#EXTINF:-1,UK Sky Sports Main Event
+http://xxultraxx.com:80/live/fouad/fouad/11135.m3u8
+#EXTINF:-1,UK Sky Sports Main Event HD
+http://xxultraxx.com:80/live/fouad/fouad/11134.m3u8
+#EXTINF:-1,UK Sky Sports Main Event HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11150.m3u8
+#EXTINF:-1,UK Sky Sports Mix
+http://xxultraxx.com:80/live/fouad/fouad/11133.m3u8
+#EXTINF:-1,UK Sky Sports Mix HD
+http://xxultraxx.com:80/live/fouad/fouad/11132.m3u8
+#EXTINF:-1,UK Sky Sports Mix HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11149.m3u8
+#EXTINF:-1,UK Sky Sports News HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11148.m3u8
+#EXTINF:-1,UK Sky Sports News HQ
+http://xxultraxx.com:80/live/fouad/fouad/11131.m3u8
+#EXTINF:-1,UK Sky Sports PL HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11147.m3u8
+#EXTINF:-1,UK Sky Sports Premier league
+http://xxultraxx.com:80/live/fouad/fouad/11130.m3u8
+#EXTINF:-1,UK Sky Sports Premier league HD
+http://xxultraxx.com:80/live/fouad/fouad/11129.m3u8
+#EXTINF:-1,UK Sky Sports the open
+http://xxultraxx.com:80/live/fouad/fouad/11128.m3u8
+#EXTINF:-1,UK Sky Sports The open HD
+http://xxultraxx.com:80/live/fouad/fouad/11127.m3u8
+#EXTINF:-1,UK Sports Football HD
+http://xxultraxx.com:80/live/fouad/fouad/11125.m3u8
+#EXTINF:-1,UK STV FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11206.m3u8
+#EXTINF:-1,UK SYFY HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11279.m3u8
+#EXTINF:-1,UK TCM HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11278.m3u8
+#EXTINF:-1,UK THE VAULT
+http://xxultraxx.com:80/live/fouad/fouad/11256.m3u8
+#EXTINF:-1,ᵁᵏ TINY POP
+http://xxultraxx.com:80/live/fouad/fouad/11205.m3u8
+#EXTINF:-1,UK TLC FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11277.m3u8
+#EXTINF:-1,UK TRUE DRAMA
+http://xxultraxx.com:80/live/fouad/fouad/11255.m3u8
+#EXTINF:-1,UK TRUE MOVIES
+http://xxultraxx.com:80/live/fouad/fouad/11254.m3u8
+#EXTINF:-1,UK TRUE MOVIES  1
+http://xxultraxx.com:80/live/fouad/fouad/11204.m3u8
+#EXTINF:-1,UK TRUE MOVIES 2
+http://xxultraxx.com:80/live/fouad/fouad/11253.m3u8
+#EXTINF:-1,UK TV3 FHD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11145.m3u8
+#EXTINF:-1,UK Universal Channel HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11276.m3u8
+#EXTINF:-1,UK Watch HD 1080*
+http://xxultraxx.com:80/live/fouad/fouad/11275.m3u8
+#EXTINF:-1,USA: Epix Hits
+http://xxultraxx.com:80/live/fouad/fouad/25498.m3u8
+#EXTINF:-1,ᵁˢᵃ  NBC GOLD GOAL RUSH {LIVE ONLY}
+http://xxultraxx.com:80/live/fouad/fouad/23734.m3u8
+#EXTINF:-1,ᵁˢᵃ  NBC GOLD Premier League 1 {LIVE ONLY}
+http://xxultraxx.com:80/live/fouad/fouad/23733.m3u8
+#EXTINF:-1,ᵁˢᵃ  NBC GOLD Premier League 2 {LIVE ONLY}
+http://xxultraxx.com:80/live/fouad/fouad/23732.m3u8
+#EXTINF:-1,ᵁˢᵃ  NBC GOLD Premier League 3 {LIVE ONLY}
+http://xxultraxx.com:80/live/fouad/fouad/23731.m3u8
+#EXTINF:-1,ᵁˢᵃ  NBC GOLD Premier League 4 {LIVE ONLY}
+http://xxultraxx.com:80/live/fouad/fouad/23730.m3u8
+#EXTINF:-1,ᵁˢᵃ  NBC GOLD Premier League 5 {LIVE ONLY}
+http://xxultraxx.com:80/live/fouad/fouad/23729.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MCM
+http://xxultraxx.com:80/live/fouad/fouad/23783.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MTV Base ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23775.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MTV Classic
+http://xxultraxx.com:80/live/fouad/fouad/23774.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MTV Dance ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23773.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MTV Hits ʜᴅ*
+http://xxultraxx.com:80/live/fouad/fouad/23772.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MTV Music
+http://xxultraxx.com:80/live/fouad/fouad/23771.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ MTV Rocks
+http://xxultraxx.com:80/live/fouad/fouad/23770.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ NRJ HITS ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23690.m3u8
+#EXTINF:-1,ᵁˢᵃ ♫ XITE ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23594.m3u8
+#EXTINF:-1,ᵁˢᵃ 360 North
+http://xxultraxx.com:80/live/fouad/fouad/23592.m3u8
+#EXTINF:-1,ᵁˢᵃ A&E
+http://xxultraxx.com:80/live/fouad/fouad/23950.m3u8
+#EXTINF:-1,ᵁˢᵃ ABC
+http://xxultraxx.com:80/live/fouad/fouad/23968.m3u8
+#EXTINF:-1,ᵁˢᵃ ABC News
+http://xxultraxx.com:80/live/fouad/fouad/23967.m3u8
+#EXTINF:-1,ᵁˢᵃ ABC NEWS UHD
+http://xxultraxx.com:80/live/fouad/fouad/23969.m3u8
+#EXTINF:-1,ᵁˢᵃ ABC Spark
+http://xxultraxx.com:80/live/fouad/fouad/23966.m3u8
+#EXTINF:-1,ᵁˢᵃ ABC WEST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23970.m3u8
+#EXTINF:-1,ᵁˢᵃ ACTIONMAX UHD
+http://xxultraxx.com:80/live/fouad/fouad/23965.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Movie
+http://xxultraxx.com:80/live/fouad/fouad/23964.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN News
+http://xxultraxx.com:80/live/fouad/fouad/23963.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Prime Atlantic
+http://xxultraxx.com:80/live/fouad/fouad/23962.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Prime Pacific
+http://xxultraxx.com:80/live/fouad/fouad/23961.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Pulse
+http://xxultraxx.com:80/live/fouad/fouad/23960.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Spectrum
+http://xxultraxx.com:80/live/fouad/fouad/23959.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Sports
+http://xxultraxx.com:80/live/fouad/fouad/23958.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Sports 1
+http://xxultraxx.com:80/live/fouad/fouad/23956.m3u8
+#EXTINF:-1,ᵁˢᵃ AFN Sports 2
+http://xxultraxx.com:80/live/fouad/fouad/23957.m3u8
+#EXTINF:-1,ᵁˢᵃ AMC UHD
+http://xxultraxx.com:80/live/fouad/fouad/23952.m3u8
+#EXTINF:-1,ᵁˢᵃ American Heroes Channel
+http://xxultraxx.com:80/live/fouad/fouad/23954.m3u8
+#EXTINF:-1,ᵁˢᵃ AMERICAN HEROES NETWORK  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23955.m3u8
+#EXTINF:-1,ᵁˢᵃ AMG TV
+http://xxultraxx.com:80/live/fouad/fouad/23953.m3u8
+#EXTINF:-1,ᵁˢᵃ ANIMAL PLANET UHD
+http://xxultraxx.com:80/live/fouad/fouad/23951.m3u8
+#EXTINF:-1,ᵁˢᵃ BBC America
+http://xxultraxx.com:80/live/fouad/fouad/23948.m3u8
+#EXTINF:-1,ᵁˢᵃ BBC AMERICA UHD
+http://xxultraxx.com:80/live/fouad/fouad/23949.m3u8
+#EXTINF:-1,ᵁˢᵃ beIN Sports US
+http://xxultraxx.com:80/live/fouad/fouad/23947.m3u8
+#EXTINF:-1,ᵁˢᵃ BET
+http://xxultraxx.com:80/live/fouad/fouad/23943.m3u8
+#EXTINF:-1,ᵁˢᵃ BET (WEST)
+http://xxultraxx.com:80/live/fouad/fouad/23942.m3u8
+#EXTINF:-1,ᵁˢᵃ BET HER
+http://xxultraxx.com:80/live/fouad/fouad/23944.m3u8
+#EXTINF:-1,ᵁˢᵃ BET HER UHD
+http://xxultraxx.com:80/live/fouad/fouad/23946.m3u8
+#EXTINF:-1,ᵁˢᵃ BET UHD
+http://xxultraxx.com:80/live/fouad/fouad/23945.m3u8
+#EXTINF:-1,ᵁˢᵃ Big Ten Network
+http://xxultraxx.com:80/live/fouad/fouad/23941.m3u8
+#EXTINF:-1,ᵁˢᵃ BLOOMBERG  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23940.m3u8
+#EXTINF:-1,ᵁˢᵃ Boomerang TV
+http://xxultraxx.com:80/live/fouad/fouad/23934.m3u8
+#EXTINF:-1,ᵁˢᵃ Bravo
+http://xxultraxx.com:80/live/fouad/fouad/23938.m3u8
+#EXTINF:-1,ᵁˢᵃ BRAVO UHD
+http://xxultraxx.com:80/live/fouad/fouad/23939.m3u8
+#EXTINF:-1,ᵁˢᵃ BT SPORT ESPN
+http://xxultraxx.com:80/live/fouad/fouad/23937.m3u8
+#EXTINF:-1,ᵁˢᵃ BTN Sport
+http://xxultraxx.com:80/live/fouad/fouad/23936.m3u8
+#EXTINF:-1,ᵁˢᵃ BYU Sports TV
+http://xxultraxx.com:80/live/fouad/fouad/23935.m3u8
+#EXTINF:-1,ᵁˢᵃ C Toon Kids
+http://xxultraxx.com:80/live/fouad/fouad/23896.m3u8
+#EXTINF:-1,ᵁˢᵃ C-SPAN 1
+http://xxultraxx.com:80/live/fouad/fouad/23900.m3u8
+#EXTINF:-1,ᵁˢᵃ C-SPAN 1 HD UHD
+http://xxultraxx.com:80/live/fouad/fouad/23903.m3u8
+#EXTINF:-1,ᵁˢᵃ C-SPAN 2
+http://xxultraxx.com:80/live/fouad/fouad/23899.m3u8
+#EXTINF:-1,ᵁˢᵃ C-SPAN 2 HD UHD
+http://xxultraxx.com:80/live/fouad/fouad/23902.m3u8
+#EXTINF:-1,ᵁˢᵃ C-SPAN 3
+http://xxultraxx.com:80/live/fouad/fouad/23898.m3u8
+#EXTINF:-1,ᵁˢᵃ C-SPAN 3 HD UHD
+http://xxultraxx.com:80/live/fouad/fouad/23901.m3u8
+#EXTINF:-1,ᵁˢᵃ Capital TV
+http://xxultraxx.com:80/live/fouad/fouad/23932.m3u8
+#EXTINF:-1,ᵁˢᵃ CARTOON NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23933.m3u8
+#EXTINF:-1,ᵁˢᵃ CBN
+http://xxultraxx.com:80/live/fouad/fouad/23928.m3u8
+#EXTINF:-1,ᵁˢᵃ CBS
+http://xxultraxx.com:80/live/fouad/fouad/23927.m3u8
+#EXTINF:-1,ᵁˢᵃ CBS EAST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23930.m3u8
+#EXTINF:-1,ᵁˢᵃ CBS EAST UHD.
+http://xxultraxx.com:80/live/fouad/fouad/23931.m3u8
+#EXTINF:-1,ᵁˢᵃ CBS Sports
+http://xxultraxx.com:80/live/fouad/fouad/23926.m3u8
+#EXTINF:-1,ᵁˢᵃ CBS Sports ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23924.m3u8
+#EXTINF:-1,ᵁˢᵃ CBS WEST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23929.m3u8
+#EXTINF:-1,ᵁˢᵃ CBSN
+http://xxultraxx.com:80/live/fouad/fouad/23925.m3u8
+#EXTINF:-1,ᵁˢᵃ CC
+http://xxultraxx.com:80/live/fouad/fouad/23923.m3u8
+#EXTINF:-1,ᵁˢᵃ Cinemax
+http://xxultraxx.com:80/live/fouad/fouad/23922.m3u8
+#EXTINF:-1,ᵁˢᵃ Cinemax 5 Starmax
+http://xxultraxx.com:80/live/fouad/fouad/23921.m3u8
+#EXTINF:-1,ᵁˢᵃ CINEMAX ACTIONMAX
+http://xxultraxx.com:80/live/fouad/fouad/23920.m3u8
+#EXTINF:-1,ᵁˢᵃ Cinemax East
+http://xxultraxx.com:80/live/fouad/fouad/23919.m3u8
+#EXTINF:-1,ᵁˢᵃ Cinemax Moremax
+http://xxultraxx.com:80/live/fouad/fouad/23918.m3u8
+#EXTINF:-1,ᵁˢᵃ CINEMAX UHD
+http://xxultraxx.com:80/live/fouad/fouad/23917.m3u8
+#EXTINF:-1,ᵁˢᵃ CMT - Country Music Television (WEST)
+http://xxultraxx.com:80/live/fouad/fouad/23916.m3u8
+#EXTINF:-1,ᵁˢᵃ CNBC World.
+http://xxultraxx.com:80/live/fouad/fouad/23914.m3u8
+#EXTINF:-1,ᵁˢᵃ CNBC-US
+http://xxultraxx.com:80/live/fouad/fouad/23913.m3u8
+#EXTINF:-1,ᵁˢᵃ CNN
+http://xxultraxx.com:80/live/fouad/fouad/23912.m3u8
+#EXTINF:-1,ᵁˢᵃ CNN UHD
+http://xxultraxx.com:80/live/fouad/fouad/23915.m3u8
+#EXTINF:-1,ᵁˢᵃ Comedy Central (East)
+http://xxultraxx.com:80/live/fouad/fouad/23910.m3u8
+#EXTINF:-1,ᵁˢᵃ Comedy Central (West)
+http://xxultraxx.com:80/live/fouad/fouad/23909.m3u8
+#EXTINF:-1,ᵁˢᵃ COMEDY CENTRAL EAST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23908.m3u8
+#EXTINF:-1,ᵁˢᵃ COOKING CHANNEL
+http://xxultraxx.com:80/live/fouad/fouad/23911.m3u8
+#EXTINF:-1,ᵁˢᵃ COOKING CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23907.m3u8
+#EXTINF:-1,ᵁˢᵃ COOKING CHANNEL.
+http://xxultraxx.com:80/live/fouad/fouad/23905.m3u8
+#EXTINF:-1,ᵁˢᵃ COUNTRY MUSIC TELEVISION (CMT) UHD
+http://xxultraxx.com:80/live/fouad/fouad/23906.m3u8
+#EXTINF:-1,ᵁˢᵃ Cozi
+http://xxultraxx.com:80/live/fouad/fouad/23904.m3u8
+#EXTINF:-1,ᵁˢᵃ CRIME & INVESTIGATION NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23897.m3u8
+#EXTINF:-1,ᵁˢᵃ CW
+http://xxultraxx.com:80/live/fouad/fouad/23894.m3u8
+#EXTINF:-1,ᵁˢᵃ CW 11
+http://xxultraxx.com:80/live/fouad/fouad/23893.m3u8
+#EXTINF:-1,ᵁˢᵃ CW Network
+http://xxultraxx.com:80/live/fouad/fouad/23892.m3u8
+#EXTINF:-1,ᵁˢᵃ CW NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23895.m3u8
+#EXTINF:-1,ᵁˢᵃ DayStar
+http://xxultraxx.com:80/live/fouad/fouad/23891.m3u8
+#EXTINF:-1,ᵁˢᵃ Destination America
+http://xxultraxx.com:80/live/fouad/fouad/23889.m3u8
+#EXTINF:-1,ᵁˢᵃ DESTINATION AMERICA UHD
+http://xxultraxx.com:80/live/fouad/fouad/23890.m3u8
+#EXTINF:-1,ᵁˢᵃ DISCOVERY LIFE  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23888.m3u8
+#EXTINF:-1,ᵁˢᵃ DISCOVERY SCIENCE CHANNEL
+http://xxultraxx.com:80/live/fouad/fouad/23884.m3u8
+#EXTINF:-1,ᵁˢᵃ Discovery Showcase
+http://xxultraxx.com:80/live/fouad/fouad/23883.m3u8
+#EXTINF:-1,ᵁˢᵃ DISNEY CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23887.m3u8
+#EXTINF:-1,ᵁˢᵃ DISNEY JR  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23886.m3u8
+#EXTINF:-1,ᵁˢᵃ DISNEY XD  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23885.m3u8
+#EXTINF:-1,ᵁˢᵃ DIY NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23882.m3u8
+#EXTINF:-1,ᵁˢᵃ E!
+http://xxultraxx.com:80/live/fouad/fouad/23879.m3u8
+#EXTINF:-1,ᵁˢᵃ E! FHD
+http://xxultraxx.com:80/live/fouad/fouad/23880.m3u8
+#EXTINF:-1,ᵁˢᵃ E! UHD
+http://xxultraxx.com:80/live/fouad/fouad/23881.m3u8
+#EXTINF:-1,ᵁˢᵃ El Rey Network
+http://xxultraxx.com:80/live/fouad/fouad/23877.m3u8
+#EXTINF:-1,ᵁˢᵃ EL REY NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23878.m3u8
+#EXTINF:-1,ᵁˢᵃ Epix
+http://xxultraxx.com:80/live/fouad/fouad/23870.m3u8
+#EXTINF:-1,ᵁˢᵃ Escape
+http://xxultraxx.com:80/live/fouad/fouad/23871.m3u8
+#EXTINF:-1,ᵁˢᵃ ESPN
+http://xxultraxx.com:80/live/fouad/fouad/23875.m3u8
+#EXTINF:-1,ᵁˢᵃ ESPN 2
+http://xxultraxx.com:80/live/fouad/fouad/23874.m3u8
+#EXTINF:-1,ᵁˢᵃ ESPN 3.
+http://xxultraxx.com:80/live/fouad/fouad/23873.m3u8
+#EXTINF:-1,ᵁˢᵃ ESPN HD
+http://xxultraxx.com:80/live/fouad/fouad/23876.m3u8
+#EXTINF:-1,ᵁˢᵃ ESPN News
+http://xxultraxx.com:80/live/fouad/fouad/23872.m3u8
+#EXTINF:-1,ᵁˢᵃ Fight Sport 1
+http://xxultraxx.com:80/live/fouad/fouad/23869.m3u8
+#EXTINF:-1,ᵁˢᵃ Fight Sport 2
+http://xxultraxx.com:80/live/fouad/fouad/23868.m3u8
+#EXTINF:-1,ᵁˢᵃ Food Network
+http://xxultraxx.com:80/live/fouad/fouad/23831.m3u8
+#EXTINF:-1,ᵁˢᵃ Food Network 1
+http://xxultraxx.com:80/live/fouad/fouad/23832.m3u8
+#EXTINF:-1,ᵁˢᵃ FOOD NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23833.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX 4 FORT MYERS UHD
+http://xxultraxx.com:80/live/fouad/fouad/23867.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX 43 HD
+http://xxultraxx.com:80/live/fouad/fouad/23836.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX 5 Las Vegas HD
+http://xxultraxx.com:80/live/fouad/fouad/23862.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX BUSINESS UHD
+http://xxultraxx.com:80/live/fouad/fouad/23866.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX EAST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23865.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX News
+http://xxultraxx.com:80/live/fouad/fouad/23861.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX News HD
+http://xxultraxx.com:80/live/fouad/fouad/23835.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX NEWS SD
+http://xxultraxx.com:80/live/fouad/fouad/23864.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX NEWS. UHD
+http://xxultraxx.com:80/live/fouad/fouad/23834.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX NY HD
+http://xxultraxx.com:80/live/fouad/fouad/23860.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Soccer  HD
+http://xxultraxx.com:80/live/fouad/fouad/23859.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Soccer Plus HD
+http://xxultraxx.com:80/live/fouad/fouad/23858.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports 1
+http://xxultraxx.com:80/live/fouad/fouad/23857.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports 2
+http://xxultraxx.com:80/live/fouad/fouad/23856.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports 2HD
+http://xxultraxx.com:80/live/fouad/fouad/23855.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Arizona HD
+http://xxultraxx.com:80/live/fouad/fouad/23854.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports College Atlantic HD
+http://xxultraxx.com:80/live/fouad/fouad/23853.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports College Central HD
+http://xxultraxx.com:80/live/fouad/fouad/23852.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports College Pacific HD
+http://xxultraxx.com:80/live/fouad/fouad/23851.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Detroit HD
+http://xxultraxx.com:80/live/fouad/fouad/23850.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Florida HD
+http://xxultraxx.com:80/live/fouad/fouad/23849.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Mid West HD
+http://xxultraxx.com:80/live/fouad/fouad/23848.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports North HD
+http://xxultraxx.com:80/live/fouad/fouad/23847.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Ohio ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23846.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Prime Ticket HD
+http://xxultraxx.com:80/live/fouad/fouad/23845.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports San Diego HD
+http://xxultraxx.com:80/live/fouad/fouad/23844.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports South East HD
+http://xxultraxx.com:80/live/fouad/fouad/23843.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports South HD
+http://xxultraxx.com:80/live/fouad/fouad/23842.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports South West HD
+http://xxultraxx.com:80/live/fouad/fouad/23841.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Sun HD
+http://xxultraxx.com:80/live/fouad/fouad/23840.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Tennessee HD
+http://xxultraxx.com:80/live/fouad/fouad/23839.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports West HD
+http://xxultraxx.com:80/live/fouad/fouad/23838.m3u8
+#EXTINF:-1,ᵁˢᵃ Fox Sports Wisconsin HD
+http://xxultraxx.com:80/live/fouad/fouad/23837.m3u8
+#EXTINF:-1,ᵁˢᵃ FOX WEST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23863.m3u8
+#EXTINF:-1,ᵁˢᵃ Freeform
+http://xxultraxx.com:80/live/fouad/fouad/23829.m3u8
+#EXTINF:-1,ᵁˢᵃ Freeform (East)
+http://xxultraxx.com:80/live/fouad/fouad/23828.m3u8
+#EXTINF:-1,ᵁˢᵃ FREEFORM UHD
+http://xxultraxx.com:80/live/fouad/fouad/23830.m3u8
+#EXTINF:-1,ᵁˢᵃ FX
+http://xxultraxx.com:80/live/fouad/fouad/23821.m3u8
+#EXTINF:-1,ᵁˢᵃ FX (East)
+http://xxultraxx.com:80/live/fouad/fouad/23824.m3u8
+#EXTINF:-1,ᵁˢᵃ FX (West)
+http://xxultraxx.com:80/live/fouad/fouad/23823.m3u8
+#EXTINF:-1,ᵁˢᵃ FX East UHD
+http://xxultraxx.com:80/live/fouad/fouad/23827.m3u8
+#EXTINF:-1,ᵁˢᵃ FXM
+http://xxultraxx.com:80/live/fouad/fouad/23822.m3u8
+#EXTINF:-1,ᵁˢᵃ FXM UHD
+http://xxultraxx.com:80/live/fouad/fouad/23826.m3u8
+#EXTINF:-1,ᵁˢᵃ FXX   UHD
+http://xxultraxx.com:80/live/fouad/fouad/23825.m3u8
+#EXTINF:-1,ᵁˢᵃ FXX (West)
+http://xxultraxx.com:80/live/fouad/fouad/23820.m3u8
+#EXTINF:-1,ᵁˢᵃ FYI UHD
+http://xxultraxx.com:80/live/fouad/fouad/23819.m3u8
+#EXTINF:-1,ᵁˢᵃ GET TV
+http://xxultraxx.com:80/live/fouad/fouad/23818.m3u8
+#EXTINF:-1,ᵁˢᵃ Grit
+http://xxultraxx.com:80/live/fouad/fouad/23817.m3u8
+#EXTINF:-1,ᵁˢᵃ GSN UHD
+http://xxultraxx.com:80/live/fouad/fouad/23816.m3u8
+#EXTINF:-1,ᵁˢᵃ Hallmark
+http://xxultraxx.com:80/live/fouad/fouad/23812.m3u8
+#EXTINF:-1,ᵁˢᵃ HALLMARK CHANNEL FHD
+http://xxultraxx.com:80/live/fouad/fouad/23815.m3u8
+#EXTINF:-1,ᵁˢᵃ HALLMARK CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23814.m3u8
+#EXTINF:-1,ᵁˢᵃ HALLMARK MOVIE CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23813.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO 2 EAST UHD
+http://xxultraxx.com:80/live/fouad/fouad/23811.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO Comedy
+http://xxultraxx.com:80/live/fouad/fouad/23806.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO COMEDY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23810.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO East
+http://xxultraxx.com:80/live/fouad/fouad/23802.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO East UHD
+http://xxultraxx.com:80/live/fouad/fouad/23809.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO Family
+http://xxultraxx.com:80/live/fouad/fouad/23805.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO FAMILY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23808.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO SIGNATURE
+http://xxultraxx.com:80/live/fouad/fouad/23804.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO SIGNATURE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23801.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO Zone
+http://xxultraxx.com:80/live/fouad/fouad/23803.m3u8
+#EXTINF:-1,ᵁˢᵃ HBO ZONE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23807.m3u8
+#EXTINF:-1,ᵁˢᵃ HGTV
+http://xxultraxx.com:80/live/fouad/fouad/23800.m3u8
+#EXTINF:-1,ᵁˢᵃ HIFI
+http://xxultraxx.com:80/live/fouad/fouad/23799.m3u8
+#EXTINF:-1,ᵁˢᵃ History Channel
+http://xxultraxx.com:80/live/fouad/fouad/23798.m3u8
+#EXTINF:-1,ᵁˢᵃ HLN
+http://xxultraxx.com:80/live/fouad/fouad/23797.m3u8
+#EXTINF:-1,ᵁˢᵃ IFC
+http://xxultraxx.com:80/live/fouad/fouad/23795.m3u8
+#EXTINF:-1,ᵁˢᵃ IFC UHD
+http://xxultraxx.com:80/live/fouad/fouad/23794.m3u8
+#EXTINF:-1,ᵁˢᵃ Investigation Discovery
+http://xxultraxx.com:80/live/fouad/fouad/23793.m3u8
+#EXTINF:-1,ᵁˢᵃ INVESTIGATION DISCOVERY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23796.m3u8
+#EXTINF:-1,ᵁˢᵃ iON
+http://xxultraxx.com:80/live/fouad/fouad/23792.m3u8
+#EXTINF:-1,ᵁˢᵃ JBTV Music
+http://xxultraxx.com:80/live/fouad/fouad/23791.m3u8
+#EXTINF:-1,ᵁˢᵃ KIDS READING TV
+http://xxultraxx.com:80/live/fouad/fouad/23790.m3u8
+#EXTINF:-1,ᵁˢᵃ Lifetime
+http://xxultraxx.com:80/live/fouad/fouad/23787.m3u8
+#EXTINF:-1,ᵁˢᵃ LIFETIME MOVIE NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23789.m3u8
+#EXTINF:-1,ᵁˢᵃ LIFETIME UHD
+http://xxultraxx.com:80/live/fouad/fouad/23788.m3u8
+#EXTINF:-1,ᵁˢᵃ LMN
+http://xxultraxx.com:80/live/fouad/fouad/23786.m3u8
+#EXTINF:-1,ᵁˢᵃ Longhorn
+http://xxultraxx.com:80/live/fouad/fouad/23785.m3u8
+#EXTINF:-1,ᵁˢᵃ MAV TV
+http://xxultraxx.com:80/live/fouad/fouad/23784.m3u8
+#EXTINF:-1,ᵁˢᵃ ME TV UHD
+http://xxultraxx.com:80/live/fouad/fouad/23782.m3u8
+#EXTINF:-1,ᵁˢᵃ NHL NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/23708.m3u8
+#EXTINF:-1,ᵁˢᵃ NHL Network HD
+http://xxultraxx.com:80/live/fouad/fouad/23709.m3u8
+#EXTINF:-1,ᵁˢᵃ NICK JR UHD
+http://xxultraxx.com:80/live/fouad/fouad/23694.m3u8
+#EXTINF:-1,ᵁˢᵃ Nick Jr.
+http://xxultraxx.com:80/live/fouad/fouad/23692.m3u8
+#EXTINF:-1,ᵁˢᵃ NICKELODEON 2
+http://xxultraxx.com:80/live/fouad/fouad/23691.m3u8
+#EXTINF:-1,ᵁˢᵃ NICKELODEON UHD
+http://xxultraxx.com:80/live/fouad/fouad/23693.m3u8
+#EXTINF:-1,ᵁˢᵃ OUTDOOR CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23689.m3u8
+#EXTINF:-1,ᵁˢᵃ OWN
+http://xxultraxx.com:80/live/fouad/fouad/23687.m3u8
+#EXTINF:-1,ᵁˢᵃ OWN  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23688.m3u8
+#EXTINF:-1,ᵁˢᵃ Oxygen
+http://xxultraxx.com:80/live/fouad/fouad/23685.m3u8
+#EXTINF:-1,ᵁˢᵃ OXYGEN TV UHD
+http://xxultraxx.com:80/live/fouad/fouad/23686.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Arizona
+http://xxultraxx.com:80/live/fouad/fouad/23684.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Bay Area
+http://xxultraxx.com:80/live/fouad/fouad/23683.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Bay Area 2
+http://xxultraxx.com:80/live/fouad/fouad/23679.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Los Angeles
+http://xxultraxx.com:80/live/fouad/fouad/23682.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Oregon
+http://xxultraxx.com:80/live/fouad/fouad/23681.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Oregon 2
+http://xxultraxx.com:80/live/fouad/fouad/23678.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Washington
+http://xxultraxx.com:80/live/fouad/fouad/23680.m3u8
+#EXTINF:-1,ᵁˢᵃ PAC-12 Washington 2
+http://xxultraxx.com:80/live/fouad/fouad/23677.m3u8
+#EXTINF:-1,ᵁˢᵃ PARAMOUNT NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23676.m3u8
+#EXTINF:-1,ᵁˢᵃ POP UHD
+http://xxultraxx.com:80/live/fouad/fouad/23675.m3u8
+#EXTINF:-1,ᵁˢᵃ PRESS TV
+http://xxultraxx.com:80/live/fouad/fouad/23674.m3u8
+#EXTINF:-1,ᵁˢᵃ Pursuit
+http://xxultraxx.com:80/live/fouad/fouad/23673.m3u8
+#EXTINF:-1,ᵁˢᵃ QVC PLUS UHD
+http://xxultraxx.com:80/live/fouad/fouad/23671.m3u8
+#EXTINF:-1,ᵁˢᵃ QVC UHD
+http://xxultraxx.com:80/live/fouad/fouad/23670.m3u8
+#EXTINF:-1,ᵁˢᵃ Red Bull TV /
+http://xxultraxx.com:80/live/fouad/fouad/23667.m3u8
+#EXTINF:-1,ᵁˢᵃ Red Bull TV HD UHD
+http://xxultraxx.com:80/live/fouad/fouad/23669.m3u8
+#EXTINF:-1,ᵁˢᵃ Reelz Channel
+http://xxultraxx.com:80/live/fouad/fouad/23665.m3u8
+#EXTINF:-1,ᵁˢᵃ QVC 2 UHD
+http://xxultraxx.com:80/live/fouad/fouad/23672.m3u8
+#EXTINF:-1,ᵁˢᵃ Reelz Channel UHD
+http://xxultraxx.com:80/live/fouad/fouad/23666.m3u8
+#EXTINF:-1,ᵁˢᵃ REVOLT UHD
+http://xxultraxx.com:80/live/fouad/fouad/23668.m3u8
+#EXTINF:-1,ᵁˢᵃ RT America
+http://xxultraxx.com:80/live/fouad/fouad/23664.m3u8
+#EXTINF:-1,ᵁˢᵃ Science Channel
+http://xxultraxx.com:80/live/fouad/fouad/23663.m3u8
+#EXTINF:-1,ᵁˢᵃ SEC Network
+http://xxultraxx.com:80/live/fouad/fouad/23662.m3u8
+#EXTINF:-1,ᵁˢᵃ Showcase Fhd
+http://xxultraxx.com:80/live/fouad/fouad/23655.m3u8
+#EXTINF:-1,ᵁˢᵃ Showtime
+http://xxultraxx.com:80/live/fouad/fouad/23656.m3u8
+#EXTINF:-1,ᵁˢᵃ Showtime 1
+http://xxultraxx.com:80/live/fouad/fouad/23653.m3u8
+#EXTINF:-1,ᵁˢᵃ Showtime 2
+http://xxultraxx.com:80/live/fouad/fouad/23654.m3u8
+#EXTINF:-1,ᵁˢᵃ SHOWTIME 2 UHD
+http://xxultraxx.com:80/live/fouad/fouad/23661.m3u8
+#EXTINF:-1,ᵁˢᵃ SHOWTIME EAST (back up) UHD
+http://xxultraxx.com:80/live/fouad/fouad/23660.m3u8
+#EXTINF:-1,ᵁˢᵃ SHOWTIME FAMILY ZONE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23659.m3u8
+#EXTINF:-1,ᵁˢᵃ SHOWTIME SHOWCASE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23658.m3u8
+#EXTINF:-1,ᵁˢᵃ SHOWTIME UHD
+http://xxultraxx.com:80/live/fouad/fouad/23657.m3u8
+#EXTINF:-1,ᵁˢᵃ SMITHSONIAN CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23652.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ Astro Sports 4
+http://xxultraxx.com:80/live/fouad/fouad/23579.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ Astro SuperSports 2
+http://xxultraxx.com:80/live/fouad/fouad/23581.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ Astro SuperSports 3
+http://xxultraxx.com:80/live/fouad/fouad/23580.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ SKYNET SPORTS 1
+http://xxultraxx.com:80/live/fouad/fouad/23535.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ SKYNET SPORTS 2
+http://xxultraxx.com:80/live/fouad/fouad/23534.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ SKYNET SPORTS 4
+http://xxultraxx.com:80/live/fouad/fouad/23532.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ SKYNET SPORTS 5
+http://xxultraxx.com:80/live/fouad/fouad/23531.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ SKYNET SPORTS 6
+http://xxultraxx.com:80/live/fouad/fouad/23530.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖ SKYNET SPORTS ʜᴅ
+http://xxultraxx.com:80/live/fouad/fouad/23536.m3u8
+#EXTINF:-1,ᵁˢᵃ SPIKE (East)
+http://xxultraxx.com:80/live/fouad/fouad/23644.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet 360 HD
+http://xxultraxx.com:80/live/fouad/fouad/23578.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet 360 HD.
+http://xxultraxx.com:80/live/fouad/fouad/23577.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet East HD
+http://xxultraxx.com:80/live/fouad/fouad/23576.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet One HD
+http://xxultraxx.com:80/live/fouad/fouad/23574.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet One HD.
+http://xxultraxx.com:80/live/fouad/fouad/23573.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet Ontario HD
+http://xxultraxx.com:80/live/fouad/fouad/23572.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet Ontario HD.
+http://xxultraxx.com:80/live/fouad/fouad/23571.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet Pacific HD.
+http://xxultraxx.com:80/live/fouad/fouad/23570.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet West HD.
+http://xxultraxx.com:80/live/fouad/fouad/23575.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet World HD
+http://xxultraxx.com:80/live/fouad/fouad/23569.m3u8
+#EXTINF:-1,ᵁˢᵃ Sportsnet World HD.
+http://xxultraxx.com:80/live/fouad/fouad/23568.m3u8
+#EXTINF:-1,ᵁˢᵃ ˢᵖSKYNET SPORTS 3
+http://xxultraxx.com:80/live/fouad/fouad/23533.m3u8
+#EXTINF:-1,ᵁˢᵃ Starz Cinema
+http://xxultraxx.com:80/live/fouad/fouad/23646.m3u8
+#EXTINF:-1,ᵁˢᵃ STARZ CINEMA UHD
+http://xxultraxx.com:80/live/fouad/fouad/23651.m3u8
+#EXTINF:-1,ᵁˢᵃ Starz Comedy
+http://xxultraxx.com:80/live/fouad/fouad/23645.m3u8
+#EXTINF:-1,ᵁˢᵃ STARZ COMEDY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23650.m3u8
+#EXTINF:-1,ᵁˢᵃ Starz East
+http://xxultraxx.com:80/live/fouad/fouad/23640.m3u8
+#EXTINF:-1,ᵁˢᵃ Starz Edge
+http://xxultraxx.com:80/live/fouad/fouad/23639.m3u8
+#EXTINF:-1,ᵁˢᵃ STARZ EDGE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23649.m3u8
+#EXTINF:-1,ᵁˢᵃ Starz Encore
+http://xxultraxx.com:80/live/fouad/fouad/23641.m3u8
+#EXTINF:-1,ᵁˢᵃ STARZ ENCORE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23647.m3u8
+#EXTINF:-1,ᵁˢᵃ STARZ KIDS & FAMILY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23648.m3u8
+#EXTINF:-1,ᵁˢᵃ Starz West
+http://xxultraxx.com:80/live/fouad/fouad/23638.m3u8
+#EXTINF:-1,ᵁˢᵃ SUNDANCE TV
+http://xxultraxx.com:80/live/fouad/fouad/23642.m3u8
+#EXTINF:-1,ᵁˢᵃ SUNDANCE TV UHD
+http://xxultraxx.com:80/live/fouad/fouad/23643.m3u8
+#EXTINF:-1,ᵁˢᵃ SYFY
+http://xxultraxx.com:80/live/fouad/fouad/23636.m3u8
+#EXTINF:-1,ᵁˢᵃ SYFY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23637.m3u8
+#EXTINF:-1,ᵁˢᵃ TBN
+http://xxultraxx.com:80/live/fouad/fouad/23633.m3u8
+#EXTINF:-1,ᵁˢᵃ TBS
+http://xxultraxx.com:80/live/fouad/fouad/23634.m3u8
+#EXTINF:-1,ᵁˢᵃ TBS UHD
+http://xxultraxx.com:80/live/fouad/fouad/23635.m3u8
+#EXTINF:-1,ᵁˢᵃ TCM UHD
+http://xxultraxx.com:80/live/fouad/fouad/23632.m3u8
+#EXTINF:-1,ᵁˢᵃ Tennis Channel
+http://xxultraxx.com:80/live/fouad/fouad/23631.m3u8
+#EXTINF:-1,ᵁˢᵃ Tennis Channel 2
+http://xxultraxx.com:80/live/fouad/fouad/23630.m3u8
+#EXTINF:-1,ᵁˢᵃ The Blaze
+http://xxultraxx.com:80/live/fouad/fouad/23627.m3u8
+#EXTINF:-1,ᵁˢᵃ THE STRIP  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23629.m3u8
+#EXTINF:-1,ᵁˢᵃ THRILLERMAX UHD
+http://xxultraxx.com:80/live/fouad/fouad/23628.m3u8
+#EXTINF:-1,ᵁˢᵃ TLC 2
+http://xxultraxx.com:80/live/fouad/fouad/23625.m3u8
+#EXTINF:-1,ᵁˢᵃ TLC UHD
+http://xxultraxx.com:80/live/fouad/fouad/23626.m3u8
+#EXTINF:-1,ᵁˢᵃ TNT 1
+http://xxultraxx.com:80/live/fouad/fouad/23624.m3u8
+#EXTINF:-1,ᵁˢᵃ TNT 2
+http://xxultraxx.com:80/live/fouad/fouad/23622.m3u8
+#EXTINF:-1,ᵁˢᵃ TNT UHD
+http://xxultraxx.com:80/live/fouad/fouad/23623.m3u8
+#EXTINF:-1,ᵁˢᵃ Travel Channel
+http://xxultraxx.com:80/live/fouad/fouad/23620.m3u8
+#EXTINF:-1,ᵁˢᵃ TRAVEL CHANNEL UHD
+http://xxultraxx.com:80/live/fouad/fouad/23621.m3u8
+#EXTINF:-1,ᵁˢᵃ TRT World
+http://xxultraxx.com:80/live/fouad/fouad/23619.m3u8
+#EXTINF:-1,ᵁˢᵃ Tru TV
+http://xxultraxx.com:80/live/fouad/fouad/23617.m3u8
+#EXTINF:-1,ᵁˢᵃ TRU TV UHD
+http://xxultraxx.com:80/live/fouad/fouad/23618.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 1 HD
+http://xxultraxx.com:80/live/fouad/fouad/23591.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 1 HD.
+http://xxultraxx.com:80/live/fouad/fouad/23590.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 2 HD
+http://xxultraxx.com:80/live/fouad/fouad/23589.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 2 HD.
+http://xxultraxx.com:80/live/fouad/fouad/23588.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 3 HD
+http://xxultraxx.com:80/live/fouad/fouad/23587.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 3 HD.
+http://xxultraxx.com:80/live/fouad/fouad/23586.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 4 HD
+http://xxultraxx.com:80/live/fouad/fouad/23585.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 4 HD.
+http://xxultraxx.com:80/live/fouad/fouad/23584.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 5 HD
+http://xxultraxx.com:80/live/fouad/fouad/23582.m3u8
+#EXTINF:-1,ᵁˢᵃ TSN Sport 5 HD.
+http://xxultraxx.com:80/live/fouad/fouad/23583.m3u8
+#EXTINF:-1,ᵁˢᵃ TV Land
+http://xxultraxx.com:80/live/fouad/fouad/23615.m3u8
+#EXTINF:-1,ᵁˢᵃ TV Land (East)
+http://xxultraxx.com:80/live/fouad/fouad/23614.m3u8
+#EXTINF:-1,ᵁˢᵃ TV Land (West)
+http://xxultraxx.com:80/live/fouad/fouad/23613.m3u8
+#EXTINF:-1,ᵁˢᵃ TV LAND UHD
+http://xxultraxx.com:80/live/fouad/fouad/23612.m3u8
+#EXTINF:-1,ᵁˢᵃ TV ONE UHD
+http://xxultraxx.com:80/live/fouad/fouad/23616.m3u8
+#EXTINF:-1,ᵁˢᵃ UFC FIGHT NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/23611.m3u8
+#EXTINF:-1,ᵁˢᵃ UFC Fight Pass 2
+http://xxultraxx.com:80/live/fouad/fouad/23610.m3u8
+#EXTINF:-1,ᵁˢᵃ UNIVISION UHD
+http://xxultraxx.com:80/live/fouad/fouad/23609.m3u8
+#EXTINF:-1,ᵁˢᵃ USA NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/23607.m3u8
+#EXTINF:-1,ᵁˢᵃ USA NETWORK UHD
+http://xxultraxx.com:80/live/fouad/fouad/23608.m3u8
+#EXTINF:-1,ᵁˢᵃ Velocity
+http://xxultraxx.com:80/live/fouad/fouad/23605.m3u8
+#EXTINF:-1,ᵁˢᵃ VELOCITY UHD
+http://xxultraxx.com:80/live/fouad/fouad/23606.m3u8
+#EXTINF:-1,ᵁˢᵃ VH1
+http://xxultraxx.com:80/live/fouad/fouad/23602.m3u8
+#EXTINF:-1,ᵁˢᵃ VH1 EAST  UHD
+http://xxultraxx.com:80/live/fouad/fouad/23604.m3u8
+#EXTINF:-1,ᵁˢᵃ VH1 UHD
+http://xxultraxx.com:80/live/fouad/fouad/23603.m3u8
+#EXTINF:-1,ᵁˢᵃ Viceland
+http://xxultraxx.com:80/live/fouad/fouad/23600.m3u8
+#EXTINF:-1,ᵁˢᵃ VICELAND UHD
+http://xxultraxx.com:80/live/fouad/fouad/23599.m3u8
+#EXTINF:-1,ᵁˢᵃ VIRGIN TV (MUSIC) UHD
+http://xxultraxx.com:80/live/fouad/fouad/23601.m3u8
+#EXTINF:-1,ᵁˢᵃ WE TV UHD
+http://xxultraxx.com:80/live/fouad/fouad/23598.m3u8
+#EXTINF:-1,ᵁˢᵃ WGN America
+http://xxultraxx.com:80/live/fouad/fouad/23596.m3u8
+#EXTINF:-1,ᵁˢᵃ WGN AMERICA UHD
+http://xxultraxx.com:80/live/fouad/fouad/23597.m3u8
+#EXTINF:-1,ᵁˢᵃ WWE NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/23595.m3u8
+#EXTINF:-1,ᵁˢᵃ Yes Network
+http://xxultraxx.com:80/live/fouad/fouad/23593.m3u8
+#EXTINF:-1,USA: A&E
+http://xxultraxx.com:80/live/fouad/fouad/7659.m3u8
+#EXTINF:-1,USA: A&E HD
+http://xxultraxx.com:80/live/fouad/fouad/9362.m3u8
+#EXTINF:-1,USA: ABC NEWS HD
+http://xxultraxx.com:80/live/fouad/fouad/9364.m3u8
+#EXTINF:-1,USA: ABC EAST
+http://xxultraxx.com:80/live/fouad/fouad/7619.m3u8
+#EXTINF:-1,USA: Abc News
+http://xxultraxx.com:80/live/fouad/fouad/7645.m3u8
+#EXTINF:-1,USA: Al Jazeera
+http://xxultraxx.com:80/live/fouad/fouad/7622.m3u8
+#EXTINF:-1,USA: AMC
+http://xxultraxx.com:80/live/fouad/fouad/7655.m3u8
+#EXTINF:-1,USA: AMC HD
+http://xxultraxx.com:80/live/fouad/fouad/9360.m3u8
+#EXTINF:-1,USA: Animal Planet
+http://xxultraxx.com:80/live/fouad/fouad/7626.m3u8
+#EXTINF:-1,USA: BEIN_SPORT
+http://xxultraxx.com:80/live/fouad/fouad/7644.m3u8
+#EXTINF:-1,USA: BLOOMBERG
+http://xxultraxx.com:80/live/fouad/fouad/7617.m3u8
+#EXTINF:-1,USA: CNBC
+http://xxultraxx.com:80/live/fouad/fouad/7636.m3u8
+#EXTINF:-1,USA: CNBC HD
+http://xxultraxx.com:80/live/fouad/fouad/9358.m3u8
+#EXTINF:-1,USA: CNN HD
+http://xxultraxx.com:80/live/fouad/fouad/9357.m3u8
+#EXTINF:-1,USA: Comedy Central
+http://xxultraxx.com:80/live/fouad/fouad/9355.m3u8
+#EXTINF:-1,USA: ComedyCentral
+http://xxultraxx.com:80/live/fouad/fouad/7627.m3u8
+#EXTINF:-1,USA: Cooking Ch
+http://xxultraxx.com:80/live/fouad/fouad/9356.m3u8
+#EXTINF:-1,USA: DISCOVERY
+http://xxultraxx.com:80/live/fouad/fouad/7630.m3u8
+#EXTINF:-1,USA: DISCOVERY Science
+http://xxultraxx.com:80/live/fouad/fouad/7620.m3u8
+#EXTINF:-1,USA: ESPN
+http://xxultraxx.com:80/live/fouad/fouad/7648.m3u8
+#EXTINF:-1,USA: FOOD NETWORK HD
+http://xxultraxx.com:80/live/fouad/fouad/9352.m3u8
+#EXTINF:-1,USA: Fox Sports 2
+http://xxultraxx.com:80/live/fouad/fouad/7641.m3u8
+#EXTINF:-1,USA: FX
+http://xxultraxx.com:80/live/fouad/fouad/7661.m3u8
+#EXTINF:-1,USA: HBO COMEDY HD
+http://xxultraxx.com:80/live/fouad/fouad/9349.m3u8
+#EXTINF:-1,USA: HBO FAMILY HD
+http://xxultraxx.com:80/live/fouad/fouad/9351.m3u8
+#EXTINF:-1,USA: HBO SIGNATURE HD
+http://xxultraxx.com:80/live/fouad/fouad/9350.m3u8
+#EXTINF:-1,USA: HGTV
+http://xxultraxx.com:80/live/fouad/fouad/7649.m3u8
+#EXTINF:-1,USA: ID
+http://xxultraxx.com:80/live/fouad/fouad/7662.m3u8
+#EXTINF:-1,USA: LIFETIME HD
+http://xxultraxx.com:80/live/fouad/fouad/9363.m3u8
+#EXTINF:-1,USA: National Geographie
+http://xxultraxx.com:80/live/fouad/fouad/7623.m3u8
+#EXTINF:-1,USA: NBC Golf
+http://xxultraxx.com:80/live/fouad/fouad/7629.m3u8
+#EXTINF:-1,USA: NFL Network
+http://xxultraxx.com:80/live/fouad/fouad/7643.m3u8
+#EXTINF:-1,USA: TBS
+http://xxultraxx.com:80/live/fouad/fouad/7658.m3u8
+#EXTINF:-1,USA: TNT
+http://xxultraxx.com:80/live/fouad/fouad/7660.m3u8
+#EXTINF:-1,USA: CNN
+http://xxultraxx.com:80/live/fouad/fouad/9338.m3u8
+#EXTINF:-1,USA: TELEMUNDO
+http://xxultraxx.com:80/live/fouad/fouad/21313.m3u8
+#EXTINF:-1,USA: UNIVISION HD
+http://xxultraxx.com:80/live/fouad/fouad/9342.m3u8
+#EXTINF:-1,USA: FX HD
+http://xxultraxx.com:80/live/fouad/fouad/9991.m3u8
+#EXTINF:-1,USA: FXM HD
+http://xxultraxx.com:80/live/fouad/fouad/9989.m3u8
+#EXTINF:-1,USA: FXX HD
+http://xxultraxx.com:80/live/fouad/fouad/9990.m3u8
+#EXTINF:-1,USA: BIG TEN NETWORK HD
+http://xxultraxx.com:80/live/fouad/fouad/20763.m3u8
+#EXTINF:-1,USA: NHL NETWORK HD
+http://xxultraxx.com:80/live/fouad/fouad/20756.m3u8
+#EXTINF:-1,USA: Showtime West 24/7 HD
+http://xxultraxx.com:80/live/fouad/fouad/20771.m3u8
+#EXTINF:-1,USA: Starz Comedy 24/7 HD
+http://xxultraxx.com:80/live/fouad/fouad/20768.m3u8
+#EXTINF:-1,USA: Starz Edge 24/7 HD
+http://xxultraxx.com:80/live/fouad/fouad/20767.m3u8
+#EXTINF:-1,USA: Starz Encore 24/7 HD
+http://xxultraxx.com:80/live/fouad/fouad/20766.m3u8
+#EXTINF:-1,USA: STARZ ENCORE WESTERN
+http://xxultraxx.com:80/live/fouad/fouad/20752.m3u8
+#EXTINF:-1,USA: Starz Kids & Family 24/7 HD
+http://xxultraxx.com:80/live/fouad/fouad/20764.m3u8
+#EXTINF:-1,ᵁˢᵃ CARTOON NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/20781.m3u8
+#EXTINF:-1,USA: DISNEY CHANNEL
+http://xxultraxx.com:80/live/fouad/fouad/20780.m3u8
+#EXTINF:-1,USA: DISNEY JR
+http://xxultraxx.com:80/live/fouad/fouad/20779.m3u8
+#EXTINF:-1,USA: MLB NETWORK HD
+http://xxultraxx.com:80/live/fouad/fouad/20783.m3u8
+#EXTINF:-1,CAN: CP24
+http://xxultraxx.com:80/live/fouad/fouad/9347.m3u8
+#EXTINF:-1,CAN: CRIME INVESTIGATION
+http://xxultraxx.com:80/live/fouad/fouad/9346.m3u8
+#EXTINF:-1,CAN: FAMILY WEST
+http://xxultraxx.com:80/live/fouad/fouad/9341.m3u8
+#EXTINF:-1,CAN: BRAVO
+http://xxultraxx.com:80/live/fouad/fouad/9348.m3u8
+#EXTINF:-1,CAN: FOX WEST
+http://xxultraxx.com:80/live/fouad/fouad/9339.m3u8
+#EXTINF:-1,CAN: HBO 1
+http://xxultraxx.com:80/live/fouad/fouad/9336.m3u8
+#EXTINF:-1,CAN: HBO 2
+http://xxultraxx.com:80/live/fouad/fouad/9335.m3u8
+#EXTINF:-1,CAN: NBC EAST
+http://xxultraxx.com:80/live/fouad/fouad/9324.m3u8
+#EXTINF:-1,CAN: PBS-E
+http://xxultraxx.com:80/live/fouad/fouad/9334.m3u8
+#EXTINF:-1,CAN: SHOWTIME
+http://xxultraxx.com:80/live/fouad/fouad/9332.m3u8
+#EXTINF:-1,CAN: TLC
+http://xxultraxx.com:80/live/fouad/fouad/9331.m3u8
+#EXTINF:-1,CAN: TRAVEL AND ESCAPE
+http://xxultraxx.com:80/live/fouad/fouad/9329.m3u8
+#EXTINF:-1,CAN: YES
+http://xxultraxx.com:80/live/fouad/fouad/9326.m3u8
+#EXTINF:-1,CAN: YTV-E
+http://xxultraxx.com:80/live/fouad/fouad/9325.m3u8
+#EXTINF:-1,CAN: ABC EAST
+http://xxultraxx.com:80/live/fouad/fouad/9932.m3u8
+#EXTINF:-1,CAN: ABC WEST
+http://xxultraxx.com:80/live/fouad/fouad/9988.m3u8
+#EXTINF:-1,CAN: AMC
+http://xxultraxx.com:80/live/fouad/fouad/9987.m3u8
+#EXTINF:-1,CAN: ANIMAL PLANET
+http://xxultraxx.com:80/live/fouad/fouad/9986.m3u8
+#EXTINF:-1,CAN: BBC CANADA
+http://xxultraxx.com:80/live/fouad/fouad/9885.m3u8
+#EXTINF:-1,CAN: BNN
+http://xxultraxx.com:80/live/fouad/fouad/9883.m3u8
+#EXTINF:-1,CAN: CANAL SAVOIR
+http://xxultraxx.com:80/live/fouad/fouad/9985.m3u8
+#EXTINF:-1,CAN: CARTOON NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/9928.m3u8
+#EXTINF:-1,CAN: CBC NEWS
+http://xxultraxx.com:80/live/fouad/fouad/9927.m3u8
+#EXTINF:-1,CAN: CBC OTTAWA
+http://xxultraxx.com:80/live/fouad/fouad/9882.m3u8
+#EXTINF:-1,CAN: CBC VANCOUVER
+http://xxultraxx.com:80/live/fouad/fouad/9881.m3u8
+#EXTINF:-1,CAN: CBS EAST
+http://xxultraxx.com:80/live/fouad/fouad/9880.m3u8
+#EXTINF:-1,CAN: CBS WEST
+http://xxultraxx.com:80/live/fouad/fouad/9879.m3u8
+#EXTINF:-1,CAN: CITY TORONTO
+http://xxultraxx.com:80/live/fouad/fouad/9877.m3u8
+#EXTINF:-1,CAN: CMT CANADA
+http://xxultraxx.com:80/live/fouad/fouad/9926.m3u8
+#EXTINF:-1,CAN: CNBC
+http://xxultraxx.com:80/live/fouad/fouad/9876.m3u8
+#EXTINF:-1,CAN: CNN INTERNATIONAL
+http://xxultraxx.com:80/live/fouad/fouad/9875.m3u8
+#EXTINF:-1,CAN: COTTAGE LIFE
+http://xxultraxx.com:80/live/fouad/fouad/9924.m3u8
+#EXTINF:-1,CAN: CW 11
+http://xxultraxx.com:80/live/fouad/fouad/9973.m3u8
+#EXTINF:-1,CAN: DISCOVERY VELOCITY
+http://xxultraxx.com:80/live/fouad/fouad/9845.m3u8
+#EXTINF:-1,CAN: INVESTIGATION DISCOVERY
+http://xxultraxx.com:80/live/fouad/fouad/9824.m3u8
+#EXTINF:-1,CAN: DISNEY
+http://xxultraxx.com:80/live/fouad/fouad/9843.m3u8
+#EXTINF:-1,CAN: DISNEY FRENCH
+http://xxultraxx.com:80/live/fouad/fouad/9971.m3u8
+#EXTINF:-1,CAN: DIY
+http://xxultraxx.com:80/live/fouad/fouad/9874.m3u8
+#EXTINF:-1,CAN: FAMILY EAST
+http://xxultraxx.com:80/live/fouad/fouad/9835.m3u8
+#EXTINF:-1,CAN: FOOD NETWORK
+http://xxultraxx.com:80/live/fouad/fouad/9968.m3u8
+#EXTINF:-1,CAN: FOX EAST
+http://xxultraxx.com:80/live/fouad/fouad/9868.m3u8
+#EXTINF:-1,CAN: FOX NEWS
+http://xxultraxx.com:80/live/fouad/fouad/9967.m3u8
+#EXTINF:-1,CAN: FX CANADA
+http://xxultraxx.com:80/live/fouad/fouad/9838.m3u8
+#EXTINF:-1,CAN: GLOBAL VANCOUVER
+http://xxultraxx.com:80/live/fouad/fouad/9866.m3u8
+#EXTINF:-1,CAN: HLN
+http://xxultraxx.com:80/live/fouad/fouad/9871.m3u8
+#EXTINF:-1,CAN: LCN
+http://xxultraxx.com:80/live/fouad/fouad/9907.m3u8
+#EXTINF:-1,CAN: MOI CIE
+http://xxultraxx.com:80/live/fouad/fouad/9960.m3u8
+#EXTINF:-1,CAN: MTV
+http://xxultraxx.com:80/live/fouad/fouad/9958.m3u8
+#EXTINF:-1,CAN: MUSIQUE PLUS
+http://xxultraxx.com:80/live/fouad/fouad/9957.m3u8
+#EXTINF:-1,CAN: NAT GEO
+http://xxultraxx.com:80/live/fouad/fouad/9865.m3u8
+#EXTINF:-1,CAN: NBA TV
+http://xxultraxx.com:80/live/fouad/fouad/9904.m3u8
+#EXTINF:-1,CAN: NBC WEST
+http://xxultraxx.com:80/live/fouad/fouad/9956.m3u8
+#EXTINF:-1,CAN: OMNI 1
+http://xxultraxx.com:80/live/fouad/fouad/9953.m3u8
+#EXTINF:-1,CAN: OWN
+http://xxultraxx.com:80/live/fouad/fouad/9951.m3u8
+#EXTINF:-1,CAN: RDI
+http://xxultraxx.com:80/live/fouad/fouad/9950.m3u8
+#EXTINF:-1,CAN: RDS
+http://xxultraxx.com:80/live/fouad/fouad/9859.m3u8
+#EXTINF:-1,CAN: SHOWCASE EAST
+http://xxultraxx.com:80/live/fouad/fouad/9821.m3u8
+#EXTINF:-1,CAN: SMITHSONIAN
+http://xxultraxx.com:80/live/fouad/fouad/9810.m3u8
+#EXTINF:-1,CAN: SPACE
+http://xxultraxx.com:80/live/fouad/fouad/9944.m3u8
+#EXTINF:-1,CAN: SPIKE TV USA
+http://xxultraxx.com:80/live/fouad/fouad/9846.m3u8
+#EXTINF:-1,CAN: SPORTSNET 360
+http://xxultraxx.com:80/live/fouad/fouad/9915.m3u8
+#EXTINF:-1,CAN: SPORTSNET ONE
+http://xxultraxx.com:80/live/fouad/fouad/9914.m3u8
+#EXTINF:-1,CAN: SPORTSNET ONTARIO
+http://xxultraxx.com:80/live/fouad/fouad/9913.m3u8
+#EXTINF:-1,CAN: SPORTSNET PACIFIC
+http://xxultraxx.com:80/live/fouad/fouad/9943.m3u8
+#EXTINF:-1,CAN: SPORTSNET WEST
+http://xxultraxx.com:80/live/fouad/fouad/9901.m3u8
+#EXTINF:-1,CAN: SPORTSNET WORLD
+http://xxultraxx.com:80/live/fouad/fouad/9942.m3u8
+#EXTINF:-1,CAN: SUPER CHANNEL 2
+http://xxultraxx.com:80/live/fouad/fouad/9940.m3u8
+#EXTINF:-1,CAN: SUPER ECRAN 1
+http://xxultraxx.com:80/live/fouad/fouad/9949.m3u8
+#EXTINF:-1,CAN: SUPER ECRAN 2
+http://xxultraxx.com:80/live/fouad/fouad/9948.m3u8
+#EXTINF:-1,CAN: SUPER ECRAN 3
+http://xxultraxx.com:80/live/fouad/fouad/9947.m3u8
+#EXTINF:-1,CAN: SUPER ECRAN 4
+http://xxultraxx.com:80/live/fouad/fouad/9946.m3u8
+#EXTINF:-1,CAN: TCM
+http://xxultraxx.com:80/live/fouad/fouad/9939.m3u8
+#EXTINF:-1,CAN: TELE QUEBEC
+http://xxultraxx.com:80/live/fouad/fouad/9899.m3u8
+#EXTINF:-1,CAN: TELE TOON FRENCH
+http://xxultraxx.com:80/live/fouad/fouad/9898.m3u8
+#EXTINF:-1,CAN: TMN 1
+http://xxultraxx.com:80/live/fouad/fouad/9854.m3u8
+#EXTINF:-1,CAN: TMN 2
+http://xxultraxx.com:80/live/fouad/fouad/9853.m3u8
+#EXTINF:-1,CAN: TMN 3
+http://xxultraxx.com:80/live/fouad/fouad/9839.m3u8
+#EXTINF:-1,CAN: TMN 4
+http://xxultraxx.com:80/live/fouad/fouad/9852.m3u8
+#EXTINF:-1,CAN: TSN 1
+http://xxultraxx.com:80/live/fouad/fouad/9920.m3u8
+#EXTINF:-1,CAN: TSN 2
+http://xxultraxx.com:80/live/fouad/fouad/9919.m3u8
+#EXTINF:-1,CAN: TSN 3
+http://xxultraxx.com:80/live/fouad/fouad/9918.m3u8
+#EXTINF:-1,CAN: TSN 4
+http://xxultraxx.com:80/live/fouad/fouad/9917.m3u8
+#EXTINF:-1,CAN: TSN 5
+http://xxultraxx.com:80/live/fouad/fouad/9916.m3u8
+#EXTINF:-1,CAN: TV5 QUEBEC
+http://xxultraxx.com:80/live/fouad/fouad/9819.m3u8
+#EXTINF:-1,CAN: TVA GATINEAU
+http://xxultraxx.com:80/live/fouad/fouad/9851.m3u8
+#EXTINF:-1,CAN: TVA SPORTS
+http://xxultraxx.com:80/live/fouad/fouad/9937.m3u8
+#EXTINF:-1,CAN: TVO Kids
+http://xxultraxx.com:80/live/fouad/fouad/9818.m3u8
+#EXTINF:-1,CAN: VICELAND
+http://xxultraxx.com:80/live/fouad/fouad/9850.m3u8
+#EXTINF:-1,CAN: VIE
+http://xxultraxx.com:80/live/fouad/fouad/9895.m3u8
+#EXTINF:-1,CAN: VRAK TV
+http://xxultraxx.com:80/live/fouad/fouad/9935.m3u8
+#EXTINF:-1,CAN: WFN
+http://xxultraxx.com:80/live/fouad/fouad/9893.m3u8
+#EXTINF:-1,CAN: Wild TV
+http://xxultraxx.com:80/live/fouad/fouad/9891.m3u8
+#EXTINF:-1,CAN: YOOPA
+http://xxultraxx.com:80/live/fouad/fouad/9849.m3u8
+#EXTINF:-1,CAN: CITY MONTREAL
+http://xxultraxx.com:80/live/fouad/fouad/10270.m3u8
+#EXTINF:-1,CAN: COMEDY WEST
+http://xxultraxx.com:80/live/fouad/fouad/10271.m3u8
+#EXTINF:-1,CAN: GLOBAL HALIFAX
+http://xxultraxx.com:80/live/fouad/fouad/10265.m3u8
+#EXTINF:-1,CAN: YES TV (Alberta)
+http://xxultraxx.com:80/live/fouad/fouad/10263.m3u8
+#EXTINF:-1,CAN: RDS INFO
+http://xxultraxx.com:80/live/fouad/fouad/10272.m3u8
+#EXTINF:-1,CAN: TFO
+http://xxultraxx.com:80/live/fouad/fouad/10273.m3u8
+#EXTINF:-1,CAN: TLC CANADA
+http://xxultraxx.com:80/live/fouad/fouad/10268.m3u8
+#EXTINF:-1,CAN: UNIS TV
+http://xxultraxx.com:80/live/fouad/fouad/10261.m3u8
+
+#EXTINF:-1,|USA| ABC
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24147
+#EXTINF:-1,|USA| CBS HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24144
+#EXTINF:-1,|USA| USA Network
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24143
+#EXTINF:-1,|USA|******NEWS******|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24142
+#EXTINF:-1,|USA| CNN HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24141
+#EXTINF:-1,|USA| Fox News HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24140
+#EXTINF:-1,|USA| MSNBC FHD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24139
+#EXTINF:-1,|USA| ABC NEWS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24138
+#EXTINF:-1,|USA| CNBC
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24137
+#EXTINF:-1,|USA| FOX BUSINESS FHD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24136
+#EXTINF:-1,|USA| BLOOMBERG TV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24135
+#EXTINF:-1,|USA| ABC 7
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24134
+#EXTINF:-1,|USA| beINSPORT N
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24108
+#EXTINF:-1,|USA| ESPN 3
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24103
+#EXTINF:-1,|USA| The Weather Channel
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24133
+#EXTINF:-1,|USA|******MOVIES******|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24132
+#EXTINF:-1,|USA| SHOWTIME SHOWCASE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24120
+#EXTINF:-1,|USA| Starz Cinema HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24118
+#EXTINF:-1,|USA| STARZ
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24119
+#EXTINF:-1,|USA| FX TV HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24125
+#EXTINF:-1,|USA| MoreMax HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24116
+#EXTINF:-1,|USA| Lifetime Movies HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24117
+#EXTINF:-1,|USA| 5 Star Max
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24114
+#EXTINF:-1,|USA| ACTIONMAX HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24115
+#EXTINF:-1,|USA| AMC HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24122
+#EXTINF:-1,|USA| Cinemax East HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24113
+#EXTINF:-1,|USA| CINEMAX HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24112
+#EXTINF:-1,|USA| EL REY  HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24111
+#EXTINF:-1,|USA| TNT HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24123
+#EXTINF:-1,|USA| HBO
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24131
+#EXTINF:-1,|USA| HBO COMEDY HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24130
+#EXTINF:-1,|USA| HBO FAMILY HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24129
+#EXTINF:-1,|USA| STARZ CINEMA
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24128
+#EXTINF:-1,|USA| HBO SIGNATURE HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24127
+#EXTINF:-1,|USA| HBO ZONE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24126
+#EXTINF:-1,|USA| HALLMARK HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24124
+#EXTINF:-1,|USA|******SPORTS******|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24110
+#EXTINF:-1,|USA| beINSPORT US
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24109
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24107
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24106
+#EXTINF:-1,|USA| ESPN
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24105
+#EXTINF:-1,|USA| ESPN 2HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24104
+#EXTINF:-1,|USA| ESPN Deportes
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24102
+#EXTINF:-1,|USA| ESPNEWS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24100
+#EXTINF:-1,|USA| ESPN U HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24101
+#EXTINF:-1,|USA| BTN
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24099
+#EXTINF:-1,|USA| CBS SPORTS NET
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24098
+#EXTINF:-1,|USA| NBC SPORTS Net HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24097
+#EXTINF:-1,|USA| NBC GOLF
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24096
+#EXTINF:-1,|USA| Tennis Channel HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24095
+#EXTINF:-1,|USA| FOX DEPORTES
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24094
+#EXTINF:-1,|USA| WWE HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24093
+#EXTINF:-1,|USA| MLB HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24092
+#EXTINF:-1,|USA| NBA
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24091
+#EXTINF:-1,|USA| NBA 1  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24090
+#EXTINF:-1,|USA| NBA 2  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24089
+#EXTINF:-1,|USA| NBA 3  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24088
+#EXTINF:-1,|USA| NBA 4  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24087
+#EXTINF:-1,|USA| NBA 5  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24086
+#EXTINF:-1,|USA| NBA 6  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24085
+#EXTINF:-1,|USA| NBA 7 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24084
+#EXTINF:-1,|USA| NBA 8 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24083
+#EXTINF:-1,|USA| NBA 9 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24082
+#EXTINF:-1,|USA| NBA 10 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24081
+#EXTINF:-1,|USA| NBA 11
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24080
+#EXTINF:-1,|USA| NHL HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24079
+#EXTINF:-1,|USA| NHL 1 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24078
+#EXTINF:-1,|USA| NHL 2 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24077
+#EXTINF:-1,|USA| NHL 3 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24076
+#EXTINF:-1,|USA| NHL 4 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24075
+#EXTINF:-1,|USA| NHL 5  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24074
+#EXTINF:-1,|USA| NHL 6
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24073
+#EXTINF:-1,|USA| NHL 7
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24072
+#EXTINF:-1,|USA| NHL 8
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24071
+#EXTINF:-1,|USA| NHL 9
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24070
+#EXTINF:-1,|USA| NHL 10
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24069
+#EXTINF:-1,|USA| NHL 11
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24068
+#EXTINF:-1,|USA| NFL NETWORK HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24067
+#EXTINF:-1,|USA| NFL 705
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24066
+#EXTINF:-1,|USA| NFL 706
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24065
+#EXTINF:-1,|USA| NFL 707
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24064
+#EXTINF:-1,|USA| NFL 708
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24063
+#EXTINF:-1,|USA| NFL 709
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24062
+#EXTINF:-1,|USA| NFL 710
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24061
+#EXTINF:-1,|USA| NFL 711
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24060
+#EXTINF:-1,|USA| NFL 712
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24059
+#EXTINF:-1,|USA| NFL 713
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24058
+#EXTINF:-1,|USA| NFL 714
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24057
+#EXTINF:-1,|USA| NFL 715
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24056
+#EXTINF:-1,|USA| NFL 716
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24055
+#EXTINF:-1,|USA| NFL 717
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24054
+#EXTINF:-1,|USA|*****ENTRETAINMENT****|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24992
+#EXTINF:-1,|USA| BRAVO
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24052
+#EXTINF:-1,|USA| A&E
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24051
+#EXTINF:-1,|USA| COMEDY CENTRAL HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24050
+#EXTINF:-1,|USA| HGTV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24049
+#EXTINF:-1,|USA| E!
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24048
+#EXTINF:-1,|USA| Fox HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24047
+#EXTINF:-1,|USA| FXX
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24046
+#EXTINF:-1,|USA| GSN FHD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24045
+#EXTINF:-1,|USA| SPIKE TV HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24044
+#EXTINF:-1,|USA| Syfy HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24043
+#EXTINF:-1,|USA| TLC HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24042
+#EXTINF:-1,|USA| Viceland
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24041
+#EXTINF:-1,|USA| DIY Network
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24040
+#EXTINF:-1,|USA| FREEFROM
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24039
+#EXTINF:-1,|USA| TBS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24038
+#EXTINF:-1,|USA| SBTN
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24037
+#EXTINF:-1,|USA|*****LIFESTYLE*****|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24036
+#EXTINF:-1,|USA| ANIMAL PLANET HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24035
+#EXTINF:-1,|USA| NAT GEO WILD HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24034
+#EXTINF:-1,|USA| NAT GEO
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24033
+#EXTINF:-1,|USA| DISCOVERY  HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24032
+#EXTINF:-1,|USA| DISCOVERY SC HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24031
+#EXTINF:-1,|USA| DISCOVERY ID HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24030
+#EXTINF:-1,|USA| HISTORY HD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24029
+#EXTINF:-1,|USA| H2
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24028
+#EXTINF:-1,|USA| Travel Channel
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24027
+#EXTINF:-1,|USA| FOOD NETWORK
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24026
+#EXTINF:-1,|USA|*****KIDS AND FAMILY*****|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24025
+#EXTINF:-1,|USA| Cartoon Network
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24024
+#EXTINF:-1,|USA| Disney Channel FHD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24023
+#EXTINF:-1,|USA| Nick
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24022
+#EXTINF:-1,|USA| NICKTOONS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24021
+#EXTINF:-1,|USA|*****MUSIC*****|USA|
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24020
+#EXTINF:-1,|USA| MTV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24019
+#EXTINF:-1,|USA| VH1 FHD
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24018
+#EXTINF:-1,=====CANADA=====
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25038
+#EXTINF:-1,====CANADA FRANCAIS===
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24988
+#EXTINF:-1,|CA| TVA MONTREAL
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25036
+#EXTINF:-1,|CA| TVA GATINEAU
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25035
+#EXTINF:-1,|CA| TVA QUEBEC
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25034
+#EXTINF:-1,|CA| VTELE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25033
+#EXTINF:-1,|CA| TELE QUEBEC
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25032
+#EXTINF:-1,|CA| VRAK TV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25030
+#EXTINF:-1,|CA| ICI MONTREAL
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25027
+#EXTINF:-1,|CA| ICI TELEVISION
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25026
+#EXTINF:-1,|CA| ICI VANCOUVER
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25028
+#EXTINF:-1,|CA| CANAL VIE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25031
+#EXTINF:-1,|CA| TV5 QUEBEC
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25029
+#EXTINF:-1,|CA| CPAC FRENCH
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25025
+#EXTINF:-1,|CA| LCN
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25022
+#EXTINF:-1,|CA| CANALSAVOIR
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25024
+#EXTINF:-1,|CA|TV Francophonie
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25023
+#EXTINF:-1,|CA|Assemblée Nationale Québec
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24993
+#EXTINF:-1,|CA| RDI
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25021
+#EXTINF:-1,|CA| RDS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25019
+#EXTINF:-1,|CA| RDS 2
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25018
+#EXTINF:-1,|CA| RDS INFO
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25020
+#EXTINF:-1,|CA| TVA SPORTS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25017
+#EXTINF:-1,|CA| SUPER ECRAN 1
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25016
+#EXTINF:-1,|CA| SUPER ECRAN 2
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25015
+#EXTINF:-1,|CA| SUPER ECRAN 3
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25014
+#EXTINF:-1,|CA| SUPER ECRAN 4
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25013
+#EXTINF:-1,|CA| CINEPOP
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25012
+#EXTINF:-1,|CA| SERIES
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25011
+#EXTINF:-1,|CA| YOOPA
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25010
+#EXTINF:-1,|CA| DISNEY FRENCH
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25007
+#EXTINF:-1,|CA| TELETOON
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25009
+#EXTINF:-1,|CA| TFO
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25008
+#EXTINF:-1,|CA| ARTV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25006
+#EXTINF:-1,|CA| ADDIK TV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25000
+#EXTINF:-1,|CA| CANAL D
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25001
+#EXTINF:-1,|CA| CASA
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25005
+#EXTINF:-1,|CA| EVASION
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25004
+#EXTINF:-1,|CA| HISTORIA
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25003
+#EXTINF:-1,|CA| MOI & CIE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/25002
+#EXTINF:-1,|CA| PRISE 2
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24998
+#EXTINF:-1,|CA| UNIS TV
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24999
+#EXTINF:-1,|CA| ZESTE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24996
+#EXTINF:-1,|CA| ZTELE
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24997
+#EXTINF:-1,|CA| METEO
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24995
+#EXTINF:-1,|CA| MUSIQUE PLUS
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24994
+#EXTINF:-1,|CA| WSBK
+http://iptvpro.premium-itv.com:8789/overflow56/ePgAUDOWuy/24254
